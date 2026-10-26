@@ -1,0 +1,24 @@
+FREE-TO-FOCUS 2026 / MODEL A STARTER
+
+1. Open RStudio > File > New Project > Existing Directory > select Free_to_Focus_2026.
+2. Download annual EOCEP 2022-2026 Excel files from:
+   https://ed.sc.gov/data/test-scores/state-assessments/end-of-course-examination-program-eocep/
+   Put in data/eocep. Ensure the 2022-2026 files are school-level results.
+3. Download annual Report Card researcher and Additional Info Excel files from:
+   https://screportcards.com/  (begin with /files/2026/data-files/)
+   Put in data/report_cards.
+4. Download SCHOOL Headcount by Gender, Ethnicity and Pupils in Poverty,
+   135-day snapshots for 2021-22 through 2025-26 from:
+   https://ed.sc.gov/data/other/student-counts/active-student-headcounts/
+   Put in data/headcounts. Be consistent with snapshot across years.
+5. Cell phone survey already in data/phone_survey.
+6. In RStudio run scripts/01_inspect_downloads.R, then scripts/02_review_phone_survey.R.
+7. Check outputs/excel_inventory.csv and cleaned/phone_survey_review.csv.
+8. MANUALLY review previous phone rules; the prior dropdown measures timing, NOT
+   whether phones were physically collected. Do not auto-assign treatment.
+9. Only after inspecting annual workbook formats, create year-standardized data and merges.
+10. Recreate original results for 2022-25 before extending 2026.
+11. scripts/03_model_template_DO_NOT_RUN_YET.R is only a regression outline.
+
+Do not interpret missing outcomes as zero. Validate every year, school identifier,
+assessment scale, and failure-rate denominator. Preserve all raw source files.

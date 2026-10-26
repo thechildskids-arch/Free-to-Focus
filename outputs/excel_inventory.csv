@@ -1,0 +1,1101 @@
+file,sheet,rows_preview,columns
+data/eocep/EOCEP2021-22-WEBFILE 922.xlsx,Column Descriptions,5,This data file contains information for the EOCEP 2021-2022 administration. | ...2
+data/eocep/EOCEP2021-22-WEBFILE 922.xlsx,TestID and DemoID Details,5,testID | demoID | demographic
+data/eocep/EOCEP2021-22-WEBFILE 922.xlsx,Ethnicity and Race,0,These were the data collected from South Carolina's student information system (PowerSchool):
+data/eocep/EOCEP2021-22-WEBFILE 922.xlsx,EOCEP_2021_22_SCHOOL,5,distcode | districtname | schoolname | chbedscode | demoid | testid | numbertested | mean | sd | pcta | pctb | pctc | pctd | pctf | intyear
+data/eocep/EOCEP2021-22-WEBFILE 922.xlsx,EOCEP_2021_22_DISTRICT,5,distcode | districtname | chbedscode | demoid | testid | numbertested | mean | sd | pcta | pctb | pctc | pctd | pctf | intyear
+data/eocep/EOCEP2021-22-WEBFILE 922.xlsx,EOCEP_2021_22_STATE,5,distcode | districtname | chbedscode | demoid | testid | numbertested | mean | sd | pcta | pctb | pctc | pctd | pctf | intyear
+data/eocep/EOCEP2022-23-WEBFILE 923.xlsx,Column Descriptions,5,This data file contains information for the EOCEP 2022-2023 administration. | ...2
+data/eocep/EOCEP2022-23-WEBFILE 923.xlsx,TestID and DemoID Details,5,testID | demoID | demographic
+data/eocep/EOCEP2022-23-WEBFILE 923.xlsx,Ethnicity and Race,0,These were the data collected from South Carolina's student information system (PowerSchool):
+data/eocep/EOCEP2022-23-WEBFILE 923.xlsx,EOCEP_2022_23_SCHOOL,5,distcode | districtname | schoolname | chbedscode | demoid | testid | numbertested | mean | sd | pcta | pctb | pctc | pctd | pctf | intyear
+data/eocep/EOCEP2022-23-WEBFILE 923.xlsx,EOCEP_2022_23_DISTRICT,5,distcode | districtname | chbedscode | demoid | testid | numbertested | mean | sd | pcta | pctb | pctc | pctd | pctf | intyear
+data/eocep/EOCEP2022-23-WEBFILE 923.xlsx,EOCEP_2022_23_STATE,5,distcode | districtname | chbedscode | demoid | testid | numbertested | mean | sd | pcta | pctb | pctc | pctd | pctf | intyear
+data/eocep/EOCEP2023-24-WEBFILE 824 (1).xlsx,Column Descriptions,5,This data file contains information for the EOCEP 2023-2024 administration. | ...2
+data/eocep/EOCEP2023-24-WEBFILE 824 (1).xlsx,TestID and DemoID Details,5,testID | demoID | demographic
+data/eocep/EOCEP2023-24-WEBFILE 824 (1).xlsx,Ethnicity and Race,0,These were the data collected from South Carolina's student information system (PowerSchool):
+data/eocep/EOCEP2023-24-WEBFILE 824 (1).xlsx,EOCEP_2023_24_SCHOOL,5,distcode | districtname | schoolname | chbedscode | demoid | testid | numbertested | mean | sd | pcta | pctb | pctc | pctd | pctf | intyear
+data/eocep/EOCEP2023-24-WEBFILE 824 (1).xlsx,EOCEP_2023_24_DISTRICT,5,distcode | districtname | chbedscode | demoid | testid | numbertested | mean | sd | pcta | pctb | pctc | pctd | pctf | intyear
+data/eocep/EOCEP2023-24-WEBFILE 824 (1).xlsx,EOCEP_2023_24_STATE,5,distcode | districtname | chbedscode | demoid | testid | numbertested | mean | sd | pcta | pctb | pctc | pctd | pctf | intyear
+data/eocep/EOCEP2024-25-WEBFILE 820.xlsx,Column Descriptions,5,This data file contains information for the EOCEP 2024-2025 administration. | ...2
+data/eocep/EOCEP2024-25-WEBFILE 820.xlsx,TestID and DemoID Details,5,testID | demoID | demographic
+data/eocep/EOCEP2024-25-WEBFILE 820.xlsx,Ethnicity and Race,0,These were the data collected from South Carolina's student information system (PowerSchool):
+data/eocep/EOCEP2024-25-WEBFILE 820.xlsx,EOCEP_2024_25_SCHOOL,5,distcode | districtname | schoolname | chbedscode | demoid | testid | numbertested | mean | sd | pcta | pctb | pctc | pctd | pctf | intyear
+data/eocep/EOCEP2024-25-WEBFILE 820.xlsx,EOCEP_2024_25_DISTRICT,5,distcode | districtname | chbedscode | demoid | testid | numbertested | mean | sd | pcta | pctb | pctc | pctd | pctf | intyear
+data/eocep/EOCEP2024-25-WEBFILE 820.xlsx,EOCEP_2024_25_STATE,5,distcode | districtname | chbedscode | demoid | testid | numbertested | mean | sd | pcta | pctb | pctc | pctd | pctf | intyear
+data/eocep/EOCEP2025-26-WEBFILE 726.xlsx,Column Descriptions,5,This data file contains information for the EOCEP 2025-2026 administration. | ...2
+data/eocep/EOCEP2025-26-WEBFILE 726.xlsx,TestID and DemoID Details,5,testID | demoID | demographic
+data/eocep/EOCEP2025-26-WEBFILE 726.xlsx,Ethnicity and Race,0,These were the data collected from South Carolina's student information system (PowerSchool):
+data/eocep/EOCEP2025-26-WEBFILE 726.xlsx,EOCEP_2025_26_SCHOOL,5,distcode | districtname | schoolname | chbedscode | demoid | testid | numbertested | mean | sd | pcta | pctb | pctc | pctd | pctf | intyear
+data/eocep/EOCEP2025-26-WEBFILE 726.xlsx,EOCEP_2025_26_DISTRICT,5,distcode | districtname | chbedscode | demoid | testid | numbertested | mean | sd | pcta | pctb | pctc | pctd | pctf | intyear
+data/eocep/EOCEP2025-26-WEBFILE 726.xlsx,EOCEP_2025_26_STATE,5,distcode | districtname | chbedscode | demoid | testid | numbertested | mean | sd | pcta | pctb | pctc | pctd | pctf | intyear
+data/report_cards/ReportCardData_AdditionalInfo2022.XLSx,Cover Sheet,5,South Carolina Department of Education's Annual School and District Report Card System for South Carolina Public Schools and School Districts 2021-2022
+data/report_cards/ReportCardData_AdditionalInfo2022.XLSx,KEY,5,WORKSHEET | COLUMN | LABEL
+data/report_cards/ReportCardData_AdditionalInfo2022.XLSx,1.MainPage,5,"ReportCardYear | DistrictNm | SchoolNm | SCHOOLID | Report
+Card Type
+(P,E,M,H,D) | street | city | state | zip | GRADESPAN | Enrollment | hdphone | URL | headname | supername | chair | TeacherCount"
+data/report_cards/ReportCardData_AdditionalInfo2022.XLSx,2.PrepSuccessPage,5,ReportCardYear | DistrictNm | SchoolNm | SCHOOLID | SCHOOLTYPECD | Pct2ndOnTrackELA | Num2ndOnTrackELA | Pct2ndOnTrackMATH | Num2ndOnTrackMATH | TotN2ndGraders | Pct1stOnTrack2ndELA | Num1stOnTrack2ndELA | Pct1stOnTrack2ndMATH | Num1stOnTrack2ndMATH | TotN1stGraders | PctGovtCivics | NumGovtCivics | KRA_PctDemRdy | KRA_PctSocRDY | KRA_PctLangRDY | KRA_PctMathRDY | KRA_PctPhysRDY
+data/report_cards/ReportCardData_AdditionalInfo2022.XLSx,3.GradratePage,5,ReportCardYear | DistrictNm | SchoolNm | SCHOOLID | SCHOOLTYPECD | DropoutRateCurrYr | DropoutRateLastYr | DropoutRecoverCurrYr | DropoutRecoverLastYr
+data/report_cards/ReportCardData_AdditionalInfo2022.XLSx,4a.CCRPage_ACT_SAT_DUAL_AP_I,5,ReportCardYear | DistrictNm | SchoolNm | SCHOOLID | SCHOOLTYPECD | ACT_Avg_EnglishScore | ACT_Avg_ReadingScore | ACT_Avg_MathScore | ACT_Avg_ScienceScore | ACT_Avg_WritingScore | ACT_Avg_CompositeScore | ACT_Pct_BENCHMARK_English | ACT_Pct_BENCHMARK_Reading | ACT_Pct_BENCHMARK_Math | ACT_Pct_BENCHMARK_Sci | ACT_Pct_BENCHMARK_All4 | SAT_PctTested | SAT_Avg_CritReadingScore | SAT_Avg_MathScore | SAT_Avg_WritingScore | SAT_Avg_CompositeScore | DUAL_NumStudEnroll | DUAL_PctStuEnroll | DUAL_Pct1112StuComplete2Cplus | AP_PctPass | AP_NumExams | AP_NumPartic | IB_NumExams | IB_NumPartic | IB_PctPass
+data/report_cards/ReportCardData_AdditionalInfo2022.XLSx,4b.CCRPage_CareerReadiness,5,ReportCardYear | DistrictNm | SchoolNm | SIDN | SCHOOLTYPECD | CareerRdy_NumTested | CareerRdy_PctNoCert | CareerRdy_NumNoCert | CareerRdy_PctYesCert | CareerRdy_NumYesCert | CareerRdy_PctBronzeCert | CareerRdy_NumBronzeCert | CareerRdy_PctSilverCert | CareerRdy_NumSilverCert | CareerRdy_PctGoldCert | CareerRdy_NumGoldCert | CareerRdy_PctPlatCert | CareerRdy_NumPlatCert | CTE_NumEnroll | CTE_NumComplete | CTE_NumCredential | CTE_NumAgriculture | CTE_NumArchitecture | CTE_NumArtsAudioVideo | CTE_NumBusiness | CTE_NumEducation | CTE_NumFinance | CTE_NumGovernment | CTE_NumHealthScience | CTE_NumHospitality | CTE_NumHumanServices | CTE_NumInfoTech | CTE_NumLaw | CTE_NumManufacturing | CTE_NumSTEM | CTE_NumTransportation | CTE_NumOther
+data/report_cards/ReportCardData_AdditionalInfo2022.XLSx,4c.CCRPage_AdditionalInfo,5,ReportCardYear | DistrictNm | SchoolNm | SCHOOLID | SCHOOLTYPECD | FAFSA_NumSnrCompleteCurrYr | FAFSA_NumSnrCompleteLastYr | CollegeApps_PctSnrCompleteCurrYr | CollegeApps_PctSnrCompleteLastYr | LIFEScholar_PctSnrEligCurrYr | LIFEScholar_PctSnrEligLastYr | PALMETTOScholar_PctSnrEligCurrYr | PALMETTOScholar_PctSnrEligLastYr | COLLEGE_PctEnrolledCurrYr | COLLEGE_PctEnrolledLastYr
+data/report_cards/ReportCardData_AdditionalInfo2022.XLSx,5.SchoolClimatePage,5,"ReportCardYear | DistrictNm | SchoolNm | SCHOOLID | SCHOOLTYPECD | GIFTED_PctCurrYr | GIFTED_PctLastYr | RETAINED_PctCurrYr | RETAINED_PctLastYr | PrincSuperYrs_CurrYr | PrincSuperYrs_LastYr | TECH_PctClassWirelessCurrYr | TECH_PctClassWirelessLastYr | TECH_OnetoOneCurrYr | TECH_OnetoOneLastYr | ChronicAbsenteeismRate | ChronicAbsenteeismRate_LastYr | Pct78HSCredit_CurrYr | Pct78HSCredit_LastYr | IGP8thGradePct_CurrYr | IGP8thGradePct_LastYr | TCH_NbrOfSurveysReturned | STU_NbrOfSurveysReturned | Frequency
+Count | TCH_SatWithLearningEnvironPct | STU_SatWithLearningEnvironPct | PAR_SatWithLearningEnvironPct | TCH_SatWithSocialPhysEnvironPct | STU_SatWithSocialPhysEnvironPct | PAR_SatWithSocialPhysEnvironPct | TCH_SatWithSchlHomeRelationPct | STU_SatWithSchlHomeRelationPct | PAR_SatWithSchlHomeRelationPct"
+data/report_cards/ReportCardData_AdditionalInfo2022.XLSx,5b.SchoolClimate_ChronicAbs,5,ReportCardYear | DistrictNm | SchoolNm | SCHOOLID | SCHOOLTYPECD | PctChronic_ALL | NChronic_ALL | NTotal_ALL | PctChronic_AA | NChronic_AA | NTotal_AA | PctChronic_AP | NChronic_AP | NTotal_AP | PctChronic_AI | NChronic_AI | NTotal_AI | PctChronic_HI | NChronic_HI | NTotal_HI | PctChronic_CA | NChronic_CA | NTotal_CA | PctChronic_EL | NChronic_EL | NTotal_EL | PctChronic_DI | NChronic_DI | NTotal_DI | PctChronic_ND | NChronic_ND | NTotal_ND | PctChronic_ED | NChronic_ED | NTotal_ED | PctChronic_NE | NChronic_NE | NTotal_NE | PctChronic_MA | NChronic_MA | NTotal_MA | PctChronic_FE | NChronic_FE | NTotal_FE | PctChronic_MI | NChronic_MI | NTotal_MI | PctChronic_MC | NChronic_MC | NTotal_MC | PctChronic_FO | NChronic_FO | NTotal_FO | PctChronic_HO | NChronic_HO | NTotal_HO | I
+data/report_cards/ReportCardData_AdditionalInfo2022.XLSx,6.ClassroomEnvironmentPage,5,ReportCardYear | DistrictNm | SchoolNm | SCHOOLID | SCHOOLTYPECD | TCHNUMBER_CurrYr | TCHNUMBER_LastYr | TCHADVDEGREE_PctCurrYr | TCHADVDEGREE_PctLastYr | TCHATTENDRATE_CurrYr | TCHATTENDRATE_LastYr | TCHSALARY_AvgCurrYr | TCHSALARY_AvgLastYr | TCHCONTINUECONTRACT_PctCurrYr | TCHCONTINUECONTRACT_PctLastYr | TCHRETURN1yr_PctCurrYr | TCHRETURN1yr_PctLastYr | TCHRETURN3yrAvg_PctCurrYr | TCHRETURN3yrAvg_PctLastYr | TCHVACAN9Wks_PctCurrYr | TCHVACAN9Wks_PctLastYr | PrimeInstructTime_CurrYr | PrimeInstructTime_LastYr | StudentTeacherRatio_CurrYr | StudentTeacherRatio_LastYr | TCHINEXPERIENCED_PctCurrYr | TCHINEXPERIENCED_NumCurrYr | TCHOUTOFFIELD_PctCurrYr | TCHOUTOFFIELD_NumCurrYr | LEAD_INEXP_PctCurrYr | LEAD_INEXP_NumCurrYr | TCH_INEXPLo_PctCurrYr | TCH_INEXPLo_NumCurrYr | LEAD_INEXPLo_PctCurrYr | LEAD_INEXPLo_NumCurrYr | TCH_OutofFieldLo_PctCurrYr | TCH_OutofFieldLo_NumCurrYr | TCH_INEXPHi_PctCurrYr | TCH_INEXPHi_NumCurrYr | LEAD_INEXPHi_PctCurrYr | LEAD_INEXPHi_NumCurrYr | TCH_OutofFieldHi_PctCurrYr | TCH_OutofFieldHi_NumCurrYr
+data/report_cards/ReportCardData_AdditionalInfo2022.XLSx,7.SchoolSafetyPage,5,ReportCardYear | DistrictNm | SchoolNm | SCHOOLID | SCHOOLTYPECD | PAR_ChildFeelsSafe | PAR_TchStopBully | PAR_NumResponses | TCH_IFeelSafe | TCH_RulesEnforced | TCH_NumResponses | OCR_FirearmYN | OCR_HomicideYN | OCR_Rape | OCR_SexAssault | OCR_RobwWeapon | OCR_RobwFirearm | OCR_RobNoWeapon | OCR_PhysAttachwWeapon | OCR_PhysAttackwFirearm | OCR_PhysAttachNoWeapon | OCR_ThreatPhysAttachwWeapon | OCR_ThreatPhysAttackwFirearm | OCR_ThreatPhysAttachNoWeapon | OCR_FirearmNum | OCR_InSchoolSuspension | OCR_OutOfSchoolSuspension | OCR_Expelled | OCR_ArrestsReferrals | OCR_BullyHarass
+data/report_cards/ReportCardData_AdditionalInfo2022.XLSx,8.FinancialDataPage,5,ReportCardYear | DistrictNm | SchoolNm | SCHOOLID | SCHOOLTYPECD | StudentsinPoverty_PctCurrYr | StudentsinPoverty_PctLastYr | TCHSALARY_AvgCurrYr | TCHSALARY_AvgLastYr | ExpendforInstruct_PctCurrYr | ExpendforInstruct_PctLastYr | ExpendforTchSalaries_PctCurrYr | ExpendforTchSalaries_PctLastYr | AdminSalary_CurrYr | AdminSalary_LastYr | StateLocalPersonnelPPE_CurrYr | StateLocalPersonnelPPE_LastYr | FedPersonnelPPE_CurrYr | FedPersonnelPPE_LastYr | StateLocalNonPersPPE_CurrYr | StateLocalNonPersPPE_LastYr | FederalNonPersonnelPPE_CurrYr | FederalNonPersonnelPPE_LastYr | TotalStateLocalPPE_CurrYr | TotalStateLocalPPE_LastYr | TotalFederalPPE_CurrYr | TotalFederalPPE_LastYr | TotalPPE_CurrYr | TotalPPE_LastYr
+data/report_cards/ReportCardData_AdditionalInfo2023_3.XLSx,Cover Sheet,5,South Carolina Department of Education's Annual School and District Report Card System for South Carolina Public Schools and School Districts 2022-2023
+data/report_cards/ReportCardData_AdditionalInfo2023_3.XLSx,KEY,5,WORKSHEET | COLUMN | LABEL
+data/report_cards/ReportCardData_AdditionalInfo2023_3.XLSx,1.MainPage,5,ReportCardYear | DistrictNm | SchoolNm | SCHOOLID | SCHOOLTYPECD | street | city | state | zip | GRADESPAN | Enrollment | hdphone | URL | headname | supername | chair | TeacherCount
+data/report_cards/ReportCardData_AdditionalInfo2023_3.XLSx,2.PrepSuccessPage,5,ReportCardYear | DistrictNm | SchoolNm | SCHOOLID | SCHOOLTYPECD | Pct2ndOnTrackELA | Num2ndOnTrackELA | Pct2ndOnTrackMATH | Num2ndOnTrackMATH | TotN2ndGraders | Pct1stOnTrack2ndELA | Num1stOnTrack2ndELA | Pct1stOnTrack2ndMATH | Num1stOnTrack2ndMATH | TotN1stGraders | PctGovtCivics | NumGovtCivics | KRA_PctDemRdy | KRA_PctSocRDY | KRA_PctLangRDY | KRA_PctMathRDY | KRA_PctPhysRDY
+data/report_cards/ReportCardData_AdditionalInfo2023_3.XLSx,3.GradratePage,5,ReportCardYear | DistrictNm | SchoolNm | SCHOOLID | SCHOOLTYPECD | DropoutRateCurrYr | DropoutRateLastYr | DropoutRecoverCurrYr | DropoutRecoverLastYr
+data/report_cards/ReportCardData_AdditionalInfo2023_3.XLSx,4a.CCRPage_ACT_SAT_DUAL_AP_I,5,ReportCardYear | DistrictNm | SchoolNm | SCHOOLID | SCHOOLTYPECD | ACT_Avg_EnglishScore | ACT_Avg_ReadingScore | ACT_Avg_MathScore | ACT_Avg_ScienceScore | ACT_Avg_WritingScore | ACT_Avg_CompositeScore | ACT_Pct_BENCHMARK_English | ACT_Pct_BENCHMARK_Reading | ACT_Pct_BENCHMARK_Math | ACT_Pct_BENCHMARK_Sci | ACT_Pct_BENCHMARK_All4 | SAT_PctTested | SAT_Avg_CritReadingScore | SAT_Avg_MathScore | SAT_Avg_WritingScore | SAT_Avg_CompositeScore | DUAL_NumStudEnroll | DUAL_PctStuEnroll | DUAL_Pct1112StuComplete2Cplus | AP_PctPass | AP_NumExams | AP_NumPartic | IB_NumExams | IB_NumPartic | IB_PctPass
+data/report_cards/ReportCardData_AdditionalInfo2023_3.XLSx,4b.CCRPage_CareerReadiness,5,ReportCardYear | DistrictNm | SchoolNm | SIDN | SCHOOLTYPECD | CareerRdy_NumTested | CareerRdy_PctNoCert | CareerRdy_NumNoCert | CareerRdy_PctYesCert | CareerRdy_NumYesCert | CareerRdy_PctBronzeCert | CareerRdy_NumBronzeCert | CareerRdy_PctSilverCert | CareerRdy_NumSilverCert | CareerRdy_PctGoldCert | CareerRdy_NumGoldCert | CareerRdy_PctPlatCert | CareerRdy_NumPlatCert | CTE_NumEnroll | CTE_NumComplete | CTE_NumCredential | CTE_NumAgriculture | CTE_NumArchitecture | CTE_NumArtsAudioVideo | CTE_NumBusiness | CTE_NumEducation | CTE_NumFinance | CTE_NumGovernment | CTE_NumHealthScience | CTE_NumHospitality | CTE_NumHumanServices | CTE_NumInfoTech | CTE_NumLaw | CTE_NumManufacturing | CTE_NumSTEM | CTE_NumTransportation | CTE_NumOther
+data/report_cards/ReportCardData_AdditionalInfo2023_3.XLSx,4c.CCRPage_AdditionalInfo,5,ReportCardYear | DistrictNm | SchoolNm | SCHOOLID | SCHOOLTYPECD | FAFSA_NumSnrCompleteCurrYr | FAFSA_NumSnrCompleteLastYr | CollegeApps_PctSnrCompleteCurrYr | CollegeApps_PctSnrCompleteLastYr | LIFEScholar_PctSnrEligCurrYr | LIFEScholar_PctSnrEligLastYr | PALMETTOScholar_PctSnrEligCurrYr | PALMETTOScholar_PctSnrEligLastYr | COLLEGE_PctEnrolledCurrYr | COLLEGE_PctEnrolledLastYr
+data/report_cards/ReportCardData_AdditionalInfo2023_3.XLSx,5.SchoolClimatePage,5,ReportCardYear | DistrictNm | SchoolNm | SCHOOLID | SCHOOLTYPECD | GIFTED_PctCurrYr | GIFTED_PctLastYr | RETAINED_PctCurrYr | RETAINED_PctLastYr | PrincSuperYrs_CurrYr | PrincSuperYrs_LastYr | TECH_PctClassWirelessCurrYr | TECH_PctClassWirelessLastYr | TECH_OnetoOneCurrYr | TECH_OnetoOneLastYr | ChronicAbsenteeismRate | ChronicAbsenteeismRate_LastYr | Pct78HSCredit_CurrYr | Pct78HSCredit_LastYr | IGP8thGradePct_CurrYr | IGP8thGradePct_LastYr | TCH_NbrOfSurveysReturned | STU_NbrOfSurveysReturned | PAR_NbrOfSurveysReturned | TCH_SatWithLearningEnvironPct | STU_SatWithLearningEnvironPct | PAR_SatWithLearningEnvironPct | TCH_SatWithSocialPhysEnvironPct | STU_SatWithSocialPhysEnvironPct | PAR_SatWithSocialPhysEnvironPct | TCH_SatWithSchlHomeRelationPct | STU_SatWithSchlHomeRelationPct | PAR_SatWithSchlHomeRelationPct
+data/report_cards/ReportCardData_AdditionalInfo2023_3.XLSx,5b.SchoolClimate_ChronicAbs,5,ReportCardYear | DistrictNm | SchoolNm | SCHOOLID | SCHOOLTYPECD | PctChronic_ALL | NChronic_ALL | NTotal_ALL | PctChronic_AA | NChronic_AA | NTotal_AA | PctChronic_AP | NChronic_AP | NTotal_AP | PctChronic_AI | NChronic_AI | NTotal_AI | PctChronic_HI | NChronic_HI | NTotal_HI | PctChronic_CA | NChronic_CA | NTotal_CA | PctChronic_EL | NChronic_EL | NTotal_EL | PctChronic_DI | NChronic_DI | NTotal_DI | PctChronic_ND | NChronic_ND | NTotal_ND | PctChronic_ED | NChronic_ED | NTotal_ED | PctChronic_NE | NChronic_NE | NTotal_NE | PctChronic_MA | NChronic_MA | NTotal_MA | PctChronic_FE | NChronic_FE | NTotal_FE | PctChronic_MI | NChronic_MI | NTotal_MI | PctChronic_MC | NChronic_MC | NTotal_MC | PctChronic_FO | NChronic_FO | NTotal_FO | PctChronic_HO | NChronic_HO | NTotal_HO | I
+data/report_cards/ReportCardData_AdditionalInfo2023_3.XLSx,6.ClassroomEnvironmentPage,5,ReportCardYear | DistrictNm | SchoolNm | SCHOOLID | SCHOOLTYPECD | TCHNUMBER_CurrYr | TCHNUMBER_LastYr | TCHADVDEGREE_PctCurrYr | TCHADVDEGREE_PctLastYr | TCHATTENDRATE_CurrYr | TCHATTENDRATE_LastYr | TCHSALARY_AvgCurrYr | TCHSALARY_AvgLastYr | TCHCONTINUECONTRACT_PctCurrYr | TCHCONTINUECONTRACT_PctLastYr | TCHRETURN1yr_PctCurrYr | TCHRETURN1yr_PctLastYr | TCHRETURN3yrAvg_PctCurrYr | TCHRETURN3yrAvg_PctLastYr | TCHVACAN9Wks_PctCurrYr | TCHVACAN9Wks_PctLastYr | PrimeInstructTime_CurrYr | PrimeInstructTime_LastYr | StudentTeacherRatio_CurrYr | StudentTeacherRatio_LastYr | TCHINEXPERIENCED_PctCurrYr | TCHINEXPERIENCED_PctLastYr | TCHINEXPERIENCED_NumCurrYr | TCHINEXPERIENCED_NumLastYr | TCHOUTOFFIELD_PctCurrYr | TCHOUTOFFIELD_PctLastYr | TCHOUTOFFIELD_NumCurrYr | TCHOUTOFFIELD_NumLastYr | LEAD_INEXP_PctCurrYr | LEAD_INEXP_NumCurrYr | TCH_INEXPLo_PctCurrYr | TCH_INEXPLo_PctLastYr | TCH_INEXPLo_NumCurrYr | TCH_INEXPLo_NumLastYr | LEAD_INEXPLo_PctCurrYr | LEAD_INEXPLo_PctLastYr | LEAD_INEXPLo_NumCurrYr | LEAD_INEXPLo_NumLastYr | TCH_OutofFieldLo_PctCurrYr | TCH_OutofFieldLo_PctLastYr | TCH_OutofFieldLo_NumCurrYr | TCH_OutofFieldLo_NumLastYr | TCH_INEXPHi_PctCurrYr | TCH_INEXPHi_PctLastYr | TCH_INEXPHi_NumCurrYr | TCH_INEXPHi_NumLastYr | LEAD_INEXPHi_PctCurrYr | LEAD_INEXPHi_PctLastYr | LEAD_INEXPHi_NumCurrYr | LEAD_INEXPHi_NumLastYr | TCH_OutofFieldHi_PctCurrYr | TCH_OutofFieldHi_PctLastYr | TCH_OutofFieldHi_NumCurrYr | TCH_OutofFieldHi_NumLastYr | LEAD_INEXP_PctLastYr | LEAD_INEXP_NumLastYr
+data/report_cards/ReportCardData_AdditionalInfo2023_3.XLSx,7.SchoolSafetyPage,5,ReportCardYear | DistrictNm | SchoolNm | SIDN | SCHOOLTYPECD | PAR_ChildFeelsSafe | PAR_TchStopBully | PAR_NumResponses | TCH_IFeelSafe | TCH_RulesEnforced | TCH_NumResponses | OCR_FirearmYN | OCR_HomicideYN | OCR_Rape | OCR_SexAssault | OCR_RobwWeapon | OCR_RobwFirearm | OCR_RobNoWeapon | OCR_PhysAttachwWeapon | OCR_PhysAttackwFirearm | OCR_PhysAttachNoWeapon | OCR_ThreatPhysAttachwWeapon | OCR_ThreatPhysAttackwFirearm | OCR_ThreatPhysAttachNoWeapon | OCR_FirearmNum | OCR_InSchoolSuspension | OCR_OutOfSchoolSuspension | OCR_Expelled | OCR_ArrestsReferrals | OCR_BullyHarass
+data/report_cards/ReportCardData_AdditionalInfo2023_3.XLSx,8.FinancialDataPage,5,ReportCardYear | DistrictNm | SchoolNm | SCHOOLID | SCHOOLTYPECD | StudentsinPoverty_PctCurrYr | StudentsinPoverty_PctLastYr | TCHSALARY_AvgCurrYr | TCHSALARY_AvgLastYr | ExpendforInstruct_PctCurrYr | ExpendforInstruct_PctLastYr | ExpendforTchSalaries_PctCurrYr | ExpendforTchSalaries_PctLastYr | AdminSalary_CurrYr | AdminSalary_LastYr | StateLocalPersonnelPPE_CurrYr | StateLocalPersonnelPPE_LastYr | FedPersonnelPPE_CurrYr | FedPersonnelPPE_LastYr | StateLocalNonPersPPE_CurrYr | StateLocalNonPersPPE_LastYr | FederalNonPersonnelPPE_CurrYr | FederalNonPersonnelPPE_LastYr | TotalStateLocalPPE_CurrYr | TotalStateLocalPPE_LastYr | TotalFederalPPE_CurrYr | TotalFederalPPE_LastYr | TotalPPE_CurrYr | TotalPPE_LastYr
+data/report_cards/ReportCardData_AdditionalInfo2024_6.XLSx,Cover Sheet,5,South Carolina Department of Education's Annual School and District Report Card System for South Carolina Public Schools and School Districts 2023-2024
+data/report_cards/ReportCardData_AdditionalInfo2024_6.XLSx,KEY,5,WORKSHEET | COLUMN | LABEL
+data/report_cards/ReportCardData_AdditionalInfo2024_6.XLSx,1.MainPage,5,"ReportCardYear | DistrictNm | SchoolNm | SCHOOLID | Report
+Card Type
+(P,E,M,H,D) | street | city | state | zip | GRADESPAN | Enrollment | hdphone | URL | headname | supername | chair | TeacherCount"
+data/report_cards/ReportCardData_AdditionalInfo2024_6.XLSx,2.PrepSuccessPage,5,ReportCardYear | DistrictNm | SchoolNm | SCHOOLID | SCHOOLTYPECD | Pct2ndOnTrackELA | Num2ndOnTrackELA | Pct2ndOnTrackMATH | Num2ndOnTrackMATH | TotN2ndGraders | Pct1stOnTrack2ndELA | Num1stOnTrack2ndELA | Pct1stOnTrack2ndMATH | Num1stOnTrack2ndMATH | TotN1stGraders | PctGovtCivics | NumGovtCivics | KRA_PctDemRdy | KRA_PctSocRDY | KRA_PctLangRDY | KRA_PctMathRDY | KRA_PctPhysRDY
+data/report_cards/ReportCardData_AdditionalInfo2024_6.XLSx,3.GradratePage,5,ReportCardYear | DistrictNm | SchoolNm | SCHOOLID | SCHOOLTYPECD | DropoutRateCurrYr | DropoutRateLastYr | DropoutRecoverCurrYr | DropoutRecoverLastYr
+data/report_cards/ReportCardData_AdditionalInfo2024_6.XLSx,4a.CCRPage_ACT_SAT_DUAL_AP_I,5,ReportCardYear | DistrictNm | SchoolNm | SCHOOLID | SCHOOLTYPECD | ACT_Avg_EnglishScore | ACT_Avg_ReadingScore | ACT_Avg_MathScore | ACT_Avg_ScienceScore | ACT_Avg_WritingScore | ACT_Avg_CompositeScore | ACT_Pct_BENCHMARK_English | ACT_Pct_BENCHMARK_Reading | ACT_Pct_BENCHMARK_Math | ACT_Pct_BENCHMARK_Sci | ACT_Pct_BENCHMARK_All4 | SAT_PctTested | SAT_Avg_CritReadingScore | SAT_Avg_MathScore | SAT_Avg_WritingScore | SAT_Avg_CompositeScore | DUAL_NumStudEnroll | DUAL_PctStuEnroll | DUAL_Pct1112StuComplete2Cplus | AP_PctPass | IB_PctPass
+data/report_cards/ReportCardData_AdditionalInfo2024_6.XLSx,4b.CCRPage_CareerReadiness,5,ReportCardYear | DistrictNm | SchoolNm | SIDN | SCHOOLTYPECD | CareerRdy_NumTested | CareerRdy_PctNoCert | CareerRdy_NumNoCert | CareerRdy_PctYesCert | CareerRdy_NumYesCert | CareerRdy_PctBronzeCert | CareerRdy_NumBronzeCert | CareerRdy_PctSilverCert | CareerRdy_NumSilverCert | CareerRdy_PctGoldCert | CareerRdy_NumGoldCert | CareerRdy_PctPlatCert | CareerRdy_NumPlatCert | CTE_NumEnroll | CTE_NumComplete | CTE_NumCredential | CTE_NumAgriculture | CTE_NumArchitecture | CTE_NumArtsAudioVideo | CTE_NumBusiness | CTE_NumEducation | CTE_NumFinance | CTE_NumGovernment | CTE_NumHealthScience | CTE_NumHospitality | CTE_NumHumanServices | CTE_NumInfoTech | CTE_NumLaw | CTE_NumManufacturing | CTE_NumSTEM | CTE_NumTransportation | CTE_NumOther
+data/report_cards/ReportCardData_AdditionalInfo2024_6.XLSx,4c.CCRPage_AdditionalInfo,5,ReportCardYear | DistrictNm | SchoolNm | SCHOOLID | SCHOOLTYPECD | FAFSA_NumSnrCompleteCurrYr | FAFSA_NumSnrCompleteLastYr | CollegeApps_PctSnrCompleteCurrYr | CollegeApps_PctSnrCompleteLastYr | LIFEScholar_PctSnrEligCurrYr | LIFEScholar_PctSnrEligLastYr | PALMETTOScholar_PctSnrEligCurrYr | PALMETTOScholar_PctSnrEligLastYr
+data/report_cards/ReportCardData_AdditionalInfo2024_6.XLSx,5.SchoolClimatePage,5,ReportCardYear | DistrictNm | SchoolNm | SCHOOLID | SCHOOLTYPECD | GIFTED_PctCurrYr | GIFTED_PctLastYr | RETAINED_PctCurrYr | RETAINED_PctLastYr | PrincSuperYrs_CurrYr | PrincSuperYrs_LastYr | TECH_PctClassWirelessCurrYr | TECH_PctClassWirelessLastYr | TECH_OnetoOneCurrYr | TECH_OnetoOneLastYr | ChronicAbsenteeismRate | ChronicAbsenteeismRate_LastYr | Pct78HSCredit_CurrYr | Pct78HSCredit_LastYr | IGP8thGradePct_CurrYr | IGP8thGradePct_LastYr | TCH_NbrOfSurveysReturned | STU_NbrOfSurveysReturned | PAR_NbrOfSurveysReturned | TCH_SatWithLearningEnvironPct | STU_SatWithLearningEnvironPct | PAR_SatWithLearningEnvironPct | TCH_SatWithSocialPhysEnvironPct | STU_SatWithSocialPhysEnvironPct | PAR_SatWithSocialPhysEnvironPct | TCH_SatWithSchlHomeRelationPct | STU_SatWithSchlHomeRelationPct | PAR_SatWithSchlHomeRelationPct
+data/report_cards/ReportCardData_AdditionalInfo2024_6.XLSx,5b.SchoolClimate_ChronicAbs,5,ReportCardYear | DistrictNm | SchoolNm | SCHOOLID | SCHOOLTYPECD | PctChronic_ALL | NChronic_ALL | NTotal_ALL | PctChronic_AA | NChronic_AA | NTotal_AA | PctChronic_AP | NChronic_AP | NTotal_AP | PctChronic_AI | NChronic_AI | NTotal_AI | PctChronic_HI | NChronic_HI | NTotal_HI | PctChronic_CA | NChronic_CA | NTotal_CA | PctChronic_EL | NChronic_EL | NTotal_EL | PctChronic_DI | NChronic_DI | NTotal_DI | PctChronic_ND | NChronic_ND | NTotal_ND | PctChronic_ED | NChronic_ED | NTotal_ED | PctChronic_NE | NChronic_NE | NTotal_NE | PctChronic_MA | NChronic_MA | NTotal_MA | PctChronic_FE | NChronic_FE | NTotal_FE | PctChronic_MI | NChronic_MI | NTotal_MI | PctChronic_MC | NChronic_MC | NTotal_MC | PctChronic_FO | NChronic_FO | NTotal_FO | PctChronic_HO | NChronic_HO | NTotal_HO | I
+data/report_cards/ReportCardData_AdditionalInfo2024_6.XLSx,6.ClassroomEnvironmentPage,5,ReportCardYear | DistrictNm | SchoolNm | SCHOOLID | SCHOOLTYPECD | TCHNUMBER_CurrYr | TCHNUMBER_LastYr | TCHADVDEGREE_PctCurrYr | TCHADVDEGREE_PctLastYr | TCHATTENDRATE_CurrYr | TCHATTENDRATE_LastYr | TCHSALARY_AvgCurrYr | TCHSALARY_AvgLastYr | TCHCONTINUECONTRACT_PctCurrYr | TCHCONTINUECONTRACT_PctLastYr | TCHRETURN1yr_PctCurrYr | TCHRETURN1yr_PctLastYr | TCHRETURN3yrAvg_PctCurrYr | TCHRETURN3yrAvg_PctLastYr | TCHVACAN9Wks_PctCurrYr | TCHVACAN9Wks_PctLastYr | PrimeInstructTime_CurrYr | PrimeInstructTime_LastYr | StudentTeacherRatio_CurrYr | StudentTeacherRatio_LastYr | TCHINEXPERIENCED_PctCurrYr | TCHINEXPERIENCED_PctLastYr | TCHINEXPERIENCED_NumCurrYr | TCHINEXPERIENCED_NumLastYr | TCHOUTOFFIELD_PctCurrYr | TCHOUTOFFIELD_PctLastYr | TCHOUTOFFIELD_NumCurrYr | TCHOUTOFFIELD_NumLastYr | LEAD_INEXP_PctCurrYr | LEAD_INEXP_NumCurrYr | TCH_INEXPLo_PctCurrYr | TCH_INEXPLo_PctLastYr | TCH_INEXPLo_NumCurrYr | TCH_INEXPLo_NumLastYr | LEAD_INEXPLo_PctCurrYr | LEAD_INEXPLo_PctLastYr | LEAD_INEXPLo_NumCurrYr | LEAD_INEXPLo_NumLastYr | TCH_OutofFieldLo_PctCurrYr | TCH_OutofFieldLo_PctLastYr | TCH_OutofFieldLo_NumCurrYr | TCH_OutofFieldLo_NumLastYr | TCH_INEXPHi_PctCurrYr | TCH_INEXPHi_PctLastYr | TCH_INEXPHi_NumCurrYr | TCH_INEXPHi_NumLastYr | LEAD_INEXPHi_PctCurrYr | LEAD_INEXPHi_PctLastYr | LEAD_INEXPHi_NumCurrYr | LEAD_INEXPHi_NumLastYr | TCH_OutofFieldHi_PctCurrYr | TCH_OutofFieldHi_PctLastYr | TCH_OutofFieldHi_NumCurrYr | TCH_OutofFieldHi_NumLastYr | LEAD_INEXP_PctLastYr | LEAD_INEXP_NumLastYr
+data/report_cards/ReportCardData_AdditionalInfo2024_6.XLSx,7.SchoolSafetyPage,5,ReportCardYear | DistrictNm | SchoolNm | SCHOOLID | SCHOOLTYPECD | PAR_ChildFeelsSafe | PAR_TchStopBully | PAR_NumResponses | TCH_IFeelSafe | TCH_RulesEnforced | TCH_NumResponses | OCR_FirearmYN | OCR_HomicideYN | OCR_Rape | OCR_SexAssault | OCR_RobwWeapon | OCR_RobwFirearm | OCR_RobNoWeapon | OCR_PhysAttachwWeapon | OCR_PhysAttackwFirearm | OCR_PhysAttachNoWeapon | OCR_ThreatPhysAttachwWeapon | OCR_ThreatPhysAttackwFirearm | OCR_ThreatPhysAttachNoWeapon | OCR_FirearmNum | OCR_InSchoolSuspension | OCR_OutOfSchoolSuspension | OCR_Expelled | OCR_ArrestsReferrals | OCR_BullyHarass
+data/report_cards/ReportCardData_AdditionalInfo2024_6.XLSx,8.FinancialDataPage,5,ReportCardYear | DistrictNm | SchoolNm | SCHOOLID | SCHOOLTYPECD | StudentsinPoverty_PctCurrYr | StudentsinPoverty_PctLastYr | TCHSALARY_AvgCurrYr | TCHSALARY_AvgLastYr | ExpendforInstruct_PctCurrYr | ExpendforInstruct_PctLastYr | ExpendforTchSalaries_PctCurrYr | ExpendforTchSalaries_PctLastYr | AdminSalary_CurrYr | AdminSalary_LastYr | StateLocalPersonnelPPE_CurrYr | StateLocalPersonnelPPE_LastYr | FedPersonnelPPE_CurrYr | FedPersonnelPPE_LastYr | StateLocalNonPersPPE_CurrYr | StateLocalNonPersPPE_LastYr | FederalNonPersonnelPPE_CurrYr | FederalNonPersonnelPPE_LastYr | TotalStateLocalPPE_CurrYr | TotalStateLocalPPE_LastYr | TotalFederalPPE_CurrYr | TotalFederalPPE_LastYr | TotalPPE_CurrYr | TotalPPE_LastYr
+data/report_cards/ReportCardData_AdditionalInfo2025 5.xlsx,Cover Sheet,5,South Carolina Department of Education's Annual School and District Report Card System for South Carolina Public Schools and School Districts 2024-2025
+data/report_cards/ReportCardData_AdditionalInfo2025 5.xlsx,KEY,5,WORKSHEET | COLUMN | LABEL
+data/report_cards/ReportCardData_AdditionalInfo2025 5.xlsx,1.MainPage,5,"ReportCardYear | DistrictNm | SchoolNm | SCHOOLID | Report Card
+Type
+(P,E,M,H,D) | street | city | state | zip | GRADESPAN | Enrollment | hdphone | URL | headname | supername | chair | TeacherCount"
+data/report_cards/ReportCardData_AdditionalInfo2025 5.xlsx,2.PrepSuccessPage,5,ReportCardYear | DistrictNm | SchoolNm | SCHOOLID | SCHOOLTYPECD | Pct2ndOnTrackELA | Num2ndOnTrackELA | Pct2ndOnTrackMATH | Num2ndOnTrackMATH | TotN2ndGraders | Pct1stOnTrack2ndELA | Num1stOnTrack2ndELA | Pct1stOnTrack2ndMATH | Num1stOnTrack2ndMATH | TotN1stGraders | PctGovtCivics | NumGovtCivics | KRA_PctDemRdy | KRA_PctSocRDY | KRA_PctLangRDY | KRA_PctMathRDY | KRA_PctPhysRDY
+data/report_cards/ReportCardData_AdditionalInfo2025 5.xlsx,3.GradratePage,5,ReportCardYear | DistrictNm | SchoolNm | SCHOOLID | SCHOOLTYPECD | DropoutRateCurrYr | DropoutRateLastYr | DropoutRecoverCurrYr | DropoutRecoverLastYr
+data/report_cards/ReportCardData_AdditionalInfo2025 5.xlsx,4a.CCRPage_ACT_SAT_DUAL_AP_I,5,ReportCardYear | DistrictNm | SchoolNm | SCHOOLID | SCHOOLTYPECD | ACT_Avg_EnglishScore | ACT_Avg_ReadingScore | ACT_Avg_MathScore | ACT_Avg_ScienceScore | ACT_Avg_WritingScore | ACT_Avg_CompositeScore | ACT_Pct_BENCHMARK_English | ACT_Pct_BENCHMARK_Reading | ACT_Pct_BENCHMARK_Math | ACT_Pct_BENCHMARK_Sci | ACT_Pct_BENCHMARK_All4 | SAT_PctTested | SAT_Avg_CritReadingScore | SAT_Avg_MathScore | SAT_Avg_WritingScore | SAT_Avg_CompositeScore | DUAL_NumStudEnroll | DUAL_PctStuEnroll | DUAL_Pct1112StuComplete2Cplus | AP_PctPass | AP_NumExams | AP_NumPartic | IB_NumExams | IB_NumPartic | IB_PctPass
+data/report_cards/ReportCardData_AdditionalInfo2025 5.xlsx,4b.CCRPage_CareerReadiness,5,ReportCardYear | DistrictNm | SchoolNm | SIDN | SCHOOLTYPECD | CareerRdy_NumTested | CareerRdy_PctNoCert | CareerRdy_NumNoCert | CareerRdy_PctYesCert | CareerRdy_NumYesCert | CareerRdy_PctBronzeCert | CareerRdy_NumBronzeCert | CareerRdy_PctSilverCert | CareerRdy_NumSilverCert | CareerRdy_PctGoldCert | CareerRdy_NumGoldCert | CareerRdy_PctPlatCert | CareerRdy_NumPlatCert | CTE_NumEnroll | CTE_NumComplete | CTE_NumCredential | CTE_NumAgriculture | CTE_NumArchitecture | CTE_NumArtsAudioVideo | CTE_NumBusiness | CTE_NumEducation | CTE_NumFinance | CTE_NumGovernment | CTE_NumHealthScience | CTE_NumHospitality | CTE_NumHumanServices | CTE_NumInfoTech | CTE_NumLaw | CTE_NumManufacturing | CTE_NumSTEM | CTE_NumTransportation | CTE_NumOther
+data/report_cards/ReportCardData_AdditionalInfo2025 5.xlsx,4c.CCRPage_AdditionalInfo,5,ReportCardYear | DistrictNm | SchoolNm | SCHOOLID | SCHOOLTYPECD | FAFSA_NumSnrCompleteCurrYr | FAFSA_NumSnrCompleteLastYr | CollegeApps_PctSnrCompleteCurrYr | CollegeApps_PctSnrCompleteLastYr | LIFEScholar_PctSnrEligCurrYr | LIFEScholar_PctSnrEligLastYr | PALMETTOScholar_PctSnrEligCurrYr | PALMETTOScholar_PctSnrEligLastYr | COLLEGE_PctEnrolledCurrYr | COLLEGE_PctEnrolledLastYr
+data/report_cards/ReportCardData_AdditionalInfo2025 5.xlsx,5.SchoolClimatePage,5,ReportCardYear | DistrictNm | SchoolNm | SchoolID | SCHOOLTYPECD | GIFTED_PctCurrYr | GIFTED_PctLastYr | RETAINED_PctCurrYr | RETAINED_PctLastYr | PrincSuperYrs_CurrYr | PrincSuperYrs_LastYr | TECH_PctClassWirelessCurrYr | TECH_PctClassWirelessLastYr | TECH_OnetoOneCurrYr | TECH_OnetoOneLastYr | ChronicAbsenteeismRate | ChronicAbsenteeismRate_LastYr | Pct78HSCredit_CurrYr | Pct78HSCredit_LastYr | IGP8thGradePct_CurrYr | IGP8thGradePct_LastYr | TCH_NbrOfSurveysReturned | STU_NbrOfSurveysReturned | PAR_NbrOfSurveysReturned | TCH_SatWithLearningEnvironPct | STU_SatWithLearningEnvironPct | PAR_SatWithLearningEnvironPct | TCH_SatWithSocialPhysEnvironPct | STU_SatWithSocialPhysEnvironPct | PAR_SatWithSocialPhysEnvironPct | TCH_SatWithSchlHomeRelationPct | STU_SatWithSchlHomeRelationPct | PAR_SatWithSchlHomeRelationPct
+data/report_cards/ReportCardData_AdditionalInfo2025 5.xlsx,5b.SchoolClimate_ChronicAbs,5,ReportCardYear | DistrictNm | SchoolNm | SCHOOLID | SCHOOLTYPECD | PctChronic_ALL | NChronic_ALL | NTotal_ALL | PctChronic_AA | NChronic_AA | NTotal_AA | PctChronic_AP | NChronic_AP | NTotal_AP | PctChronic_AI | NChronic_AI | NTotal_AI | PctChronic_HI | NChronic_HI | NTotal_HI | PctChronic_CA | NChronic_CA | NTotal_CA | PctChronic_EL | NChronic_EL | NTotal_EL | PctChronic_DI | NChronic_DI | NTotal_DI | PctChronic_ND | NChronic_ND | NTotal_ND | PctChronic_ED | NChronic_ED | NTotal_ED | PctChronic_NE | NChronic_NE | NTotal_NE | PctChronic_MA | NChronic_MA | NTotal_MA | PctChronic_FE | NChronic_FE | NTotal_FE | PctChronic_MI | NChronic_MI | NTotal_MI | PctChronic_MC | NChronic_MC | NTotal_MC | PctChronic_FO | NChronic_FO | NTotal_FO | PctChronic_HO | NChronic_HO | NTotal_HO | I
+data/report_cards/ReportCardData_AdditionalInfo2025 5.xlsx,6.ClassroomEnvironmentPage,5,ReportCardYear | DistrictNm | SchoolNm | SCHOOLID | SCHOOLTYPECD | TCHNUMBER_CurrYr | TCHNUMBER_LastYr | TCHADVDEGREE_PctCurrYr | TCHADVDEGREE_PctLastYr | TCHATTENDRATE_CurrYr | TCHATTENDRATE_LastYr | TCHSALARY_AvgCurrYr | TCHSALARY_AvgLastYr | TCHCONTINUECONTRACT_PctCurrYr | TCHCONTINUECONTRACT_PctLastYr | TCHRETURN1yr_PctCurrYr | TCHRETURN1yr_PctLastYr | TCHRETURN3yrAvg_PctCurrYr | TCHRETURN3yrAvg_PctLastYr | TCHVACAN9Wks_PctCurrYr | TCHVACAN9Wks_PctLastYr | PrimeInstructTime_CurrYr | PrimeInstructTime_LastYr | StudentTeacherRatio_CurrYr | StudentTeacherRatio_LastYr | TCHINEXPERIENCED_PctCurrYr | TCHINEXPERIENCED_PctLastYr | TCHINEXPERIENCED_NumCurrYr | TCHINEXPERIENCED_NumLastYr | TCHOUTOFFIELD_PctCurrYr | TCHOUTOFFIELD_PctLastYr | TCHOUTOFFIELD_NumCurrYr | TCHOUTOFFIELD_NumLastYr | LEAD_INEXP_PctCurrYr | LEAD_INEXP_NumCurrYr | TCH_INEXPLo_PctCurrYr | TCH_INEXPLo_PctLastYr | TCH_INEXPLo_NumCurrYr | TCH_INEXPLo_NumLastYr | LEAD_INEXPLo_PctCurrYr | LEAD_INEXPLo_PctLastYr | LEAD_INEXPLo_NumCurrYr | LEAD_INEXPLo_NumLastYr | TCH_OutofFieldLo_PctCurrYr | TCH_OutofFieldLo_PctLastYr | TCH_OutofFieldLo_NumCurrYr | TCH_OutofFieldLo_NumLastYr | TCH_INEXPHi_PctCurrYr | TCH_INEXPHi_PctLastYr | TCH_INEXPHi_NumCurrYr | TCH_INEXPHi_NumLastYr | LEAD_INEXPHi_PctCurrYr | LEAD_INEXPHi_PctLastYr | LEAD_INEXPHi_NumCurrYr | LEAD_INEXPHi_NumLastYr | TCH_OutofFieldHi_PctCurrYr | TCH_OutofFieldHi_PctLastYr | TCH_OutofFieldHi_NumCurrYr | TCH_OutofFieldHi_NumLastYr | LEAD_INEXP_PctLastYr | LEAD_INEXP_NumLastYr
+data/report_cards/ReportCardData_AdditionalInfo2025 5.xlsx,7.SchoolSafetyPage,5,ReportCardYear | DistrictNm | SchoolNm | SchoolID | SCHOOLTYPECD | PAR_ChildFeelsSafe | PAR_TchStopBully | PAR_NumResponses | TCH_IFeelSafe | TCH_RulesEnforced | TCH_NumResponses | OCR_FirearmYN | OCR_HomicideYN | OCR_Rape | OCR_SexAssault | OCR_RobwWeapon | OCR_RobwFirearm | OCR_RobNoWeapon | OCR_PhysAttachwWeapon | OCR_PhysAttackwFirearm | OCR_PhysAttachNoWeapon | OCR_ThreatPhysAttachwWeapon | OCR_ThreatPhysAttackwFirearm | OCR_ThreatPhysAttachNoWeapon | OCR_FirearmNum | OCR_InSchoolSuspension | OCR_OutOfSchoolSuspension | OCR_Expelled | OCR_ArrestsReferrals | OCR_BullyHarass
+data/report_cards/ReportCardData_AdditionalInfo2025 5.xlsx,8.FinancialDataPage,5,ReportCardYear | DistrictNm | SchoolNm | SCHOOLID | SCHOOLTYPECD | StudentsinPoverty_PctCurrYr | StudentsinPoverty_PctLastYr | TCHSALARY_AvgCurrYr | TCHSALARY_AvgLastYr | ExpendforInstruct_PctCurrYr | ExpendforInstruct_PctLastYr | ExpendforTchSalaries_PctCurrYr | ExpendforTchSalaries_PctLastYr | AdminSalary_CurrYr | AdminSalary_LastYr | StateLocalPersonnelPPE_CurrYr | StateLocalPersonnelPPE_LastYr | FedPersonnelPPE_CurrYr | FedPersonnelPPE_LastYr | StateLocalNonPersPPE_CurrYr | StateLocalNonPersPPE_LastYr | FederalNonPersonnelPPE_CurrYr | FederalNonPersonnelPPE_LastYr | TotalStateLocalPPE_CurrYr | TotalStateLocalPPE_LastYr | TotalFederalPPE_CurrYr | TotalFederalPPE_LastYr | TotalPPE_CurrYr | TotalPPE_LastYr
+data/report_cards/ReportCardData_AdditionalInfo2026.XLSx,KEY,5,WORKSHEET | COLUMN | LABEL
+data/report_cards/ReportCardData_AdditionalInfo2026.XLSx,1.MainPage,5,ReportCardYear | DistrictNm | SchoolNm | SCHOOLID | SCHOOLTYPECD | street | city | state | zip | GRADESPAN | Enrollment | hdphone | URL | headname | supername | chair | TeacherCount
+data/report_cards/ReportCardData_AdditionalInfo2026.XLSx,2.PrepSuccessPage,5,ReportCardYear | DistrictNm | SchoolNm | SCHOOLID | SCHOOLTYPECD | Pct2ndOnTrackELA | Num2ndOnTrackELA | Pct2ndOnTrackMATH | Num2ndOnTrackMATH | TotN2ndGraders | Pct1stOnTrack2ndELA | Num1stOnTrack2ndELA | Pct1stOnTrack2ndMATH | Num1stOnTrack2ndMATH | TotN1stGraders | PctGovtCivics | NumGovtCivics | KRA_PctDemRdy | KRA_PctSocRDY | KRA_PctLangRDY | KRA_PctMathRDY | KRA_PctPhysRDY
+data/report_cards/ReportCardData_AdditionalInfo2026.XLSx,3.GradratePage,5,ReportCardYear | DistrictNm | SchoolNm | SCHOOLID | SCHOOLTYPECD | DropoutRateCurrYr | DropoutRateLastYr | DropoutRecoverCurrYr | DropoutRecoverLastYr
+data/report_cards/ReportCardData_AdditionalInfo2026.XLSx,4a.CCRPage_ACT_SAT_DUAL_AP_I,5,ReportCardYear | DistrictNm | SchoolNm | SCHOOLID | SCHOOLTYPECD | ACT_Avg_EnglishScore | ACT_Avg_ReadingScore | ACT_Avg_MathScore | ACT_Avg_ScienceScore | ACT_Avg_WritingScore | ACT_Avg_CompositeScore | ACT_Pct_BENCHMARK_English | ACT_Pct_BENCHMARK_Reading | ACT_Pct_BENCHMARK_Math | ACT_Pct_BENCHMARK_Sci | ACT_Pct_BENCHMARK_All4 | SAT_PctTested | SAT_Avg_CritReadingScore | SAT_Avg_MathScore | SAT_Avg_WritingScore | SAT_Avg_CompositeScore | DUAL_NumStudEnroll | DUAL_PctStuEnroll | DUAL_Pct1112StuComplete2Cplus | AP_PctPass | AP_NumExams | AP_NumPartic | IB_NumExams | IB_NumPartic | IB_PctPass
+data/report_cards/ReportCardData_AdditionalInfo2026.XLSx,4b.CCRPage_CareerReadiness,5,ReportCardYear | DistrictNm | SchoolNm | SCHOOLID | SCHOOLTYPECD | CareerRdy_NumTested | CareerRdy_PctNoCert | CareerRdy_NumNoCert | CareerRdy_PctYesCert | CareerRdy_NumYesCert | CareerRdy_PctBronzeCert | CareerRdy_NumBronzeCert | CareerRdy_PctSilverCert | CareerRdy_NumSilverCert | CareerRdy_PctGoldCert | CareerRdy_NumGoldCert | CareerRdy_PctPlatCert | CareerRdy_NumPlatCert | CTE_NumEnroll | CTE_NumComplete | CTE_NumCredential | CTE_NumAdvManufacturing | CTE_NumAgriculture | CTE_NumArtsEntertainDesign | CTE_NumConstruction | CTE_NumDigitalTech | CTE_NumEducation | CTE_NumEnergyNatResources | CTE_NumFinance | CTE_NumHealthHumanServ | CTE_HospEventTourism | CTE_NumManagement | CTE_NumMarketingSales | CTE_NumPublicServSafety | CTE_NumSupplyTransport | CTE_Universal
+data/report_cards/ReportCardData_AdditionalInfo2026.XLSx,4c.CCRPage_AdditionalInfo,5,ReportCardYear | DistrictNm | SchoolNm | SCHOOLID | SCHOOLTYPECD | FAFSA_NumSnrCompleteCurrYr | FAFSA_NumSnrCompleteLastYr | CollegeApps_PctSnrCompleteCurrYr | CollegeApps_PctSnrCompleteLastYr | LIFEScholar_PctSnrEligCurrYr | LIFEScholar_PctSnrEligLastYr | PALMETTOScholar_PctSnrEligCurrYr | PALMETTOScholar_PctSnrEligLastYr | COLLEGE_PctEnrolledCurrYr | COLLEGE_PctEnrolledLastYr
+data/report_cards/ReportCardData_AdditionalInfo2026.XLSx,5.SchoolClimatePage,5,ReportCardYear | DistrictNm | SchoolNm | SCHOOLID | SCHOOLTYPECD | GIFTED_PctCurrYr | GIFTED_PctLastYr | RETAINED_PctCurrYr | RETAINED_PctLastYr | PrincSuperYrs_CurrYr | PrincSuperYrs_LastYr | TECH_PctClassWirelessCurrYr | TECH_PctClassWirelessLastYr | TECH_OnetoOneCurrYr | TECH_OnetoOneLastYr | ChronicAbsenteeismRate | ChronicAbsenteeismRate_LastYr | Pct78HSCredit_CurrYr | Pct78HSCredit_LastYr | IGP8thGradePct_CurrYr | IGP8thGradePct_LastYr | TCH_NbrOfSurveysReturned | STU_NbrOfSurveysReturned | PAR_NbrOfSurveysReturned | TCH_SatWithLearningEnvironPct | STU_SatWithLearningEnvironPct | PAR_SatWithLearningEnvironPct | TCH_SatWithSocialPhysEnvironPct | STU_SatWithSocialPhysEnvironPct | PAR_SatWithSocialPhysEnvironPct | TCH_SatWithSchlHomeRelationPct | STU_SatWithSchlHomeRelationPct | PAR_SatWithSchlHomeRelationPct
+data/report_cards/ReportCardData_AdditionalInfo2026.XLSx,5b.SchoolClimate_ChronicAbs,5,ReportCardYear | DistrictNm | SchoolNm | SCHOOLID | SCHOOLTYPECD | PctChronic_ALL | NChronic_ALL | NTotal_ALL | PctChronic_AA | NChronic_AA | NTotal_AA | PctChronic_AP | NChronic_AP | NTotal_AP | PctChronic_AI | NChronic_AI | NTotal_AI | PctChronic_HI | NChronic_HI | NTotal_HI | PctChronic_CA | NChronic_CA | NTotal_CA | PctChronic_EL | NChronic_EL | NTotal_EL | PctChronic_DI | NChronic_DI | NTotal_DI | PctChronic_ND | NChronic_ND | NTotal_ND | PctChronic_ED | NChronic_ED | NTotal_ED | PctChronic_NE | NChronic_NE | NTotal_NE | PctChronic_MA | NChronic_MA | NTotal_MA | PctChronic_FE | NChronic_FE | NTotal_FE | PctChronic_MI | NChronic_MI | NTotal_MI | PctChronic_MC | NChronic_MC | NTotal_MC | PctChronic_FO | NChronic_FO | NTotal_FO | PctChronic_HO | NChronic_HO | NTotal_HO | I
+data/report_cards/ReportCardData_AdditionalInfo2026.XLSx,6.ClassroomEnvironmentPage,5,ReportCardYear | DistrictNm | SchoolNm | SCHOOLID | SCHOOLTYPECD | TCHNUMBER_CurrYr | TCHNUMBER_LastYr | TCHADVDEGREE_PctCurrYr | TCHADVDEGREE_PctLastYr | TCHATTENDRATE_CurrYr | TCHATTENDRATE_LastYr | TCHSALARY_AvgCurrYr | TCHSALARY_AvgLastYr | TCHCONTINUECONTRACT_PctCurrYr | TCHCONTINUECONTRACT_PctLastYr | TCHRETURN1yr_PctCurrYr | TCHRETURN1yr_PctLastYr | TCHRETURN3yrAvg_PctCurrYr | TCHRETURN3yrAvg_PctLastYr | TCHVACAN9Wks_PctCurrYr | TCHVACAN9Wks_PctLastYr | PrimeInstructTime_CurrYr | PrimeInstructTime_LastYr | StudentTeacherRatio_CurrYr | StudentTeacherRatio_LastYr | TCHINEXPERIENCED_PctCurrYr | TCHINEXPERIENCED_PctLastYr | TCHINEXPERIENCED_NumCurrYr | TCHINEXPERIENCED_NumLastYr | TCHOUTOFFIELD_PctCurrYr | TCHOUTOFFIELD_PctLastYr | TCHOUTOFFIELD_NumCurrYr | TCHOUTOFFIELD_NumLastYr | LEAD_INEXP_PctCurrYr | LEAD_INEXP_NumCurrYr | TCH_INEXPLo_PctCurrYr | TCH_INEXPLo_PctLastYr | TCH_INEXPLo_NumCurrYr | TCH_INEXPLo_NumLastYr | LEAD_INEXPLo_PctCurrYr | LEAD_INEXPLo_PctLastYr | LEAD_INEXPLo_NumCurrYr | LEAD_INEXPLo_NumLastYr | TCH_OutofFieldLo_PctCurrYr | TCH_OutofFieldLo_PctLastYr | TCH_OutofFieldLo_NumCurrYr | TCH_OutofFieldLo_NumLastYr | TCH_INEXPHi_PctCurrYr | TCH_INEXPHi_PctLastYr | TCH_INEXPHi_NumCurrYr | TCH_INEXPHi_NumLastYr | LEAD_INEXPHi_PctCurrYr | LEAD_INEXPHi_PctLastYr | LEAD_INEXPHi_NumCurrYr | LEAD_INEXPHi_NumLastYr | TCH_OutofFieldHi_PctCurrYr | TCH_OutofFieldHi_PctLastYr | TCH_OutofFieldHi_NumCurrYr | TCH_OutofFieldHi_NumLastYr | LEAD_INEXP_PctLastYr | LEAD_INEXP_NumLastYr
+data/report_cards/ReportCardData_AdditionalInfo2026.XLSx,7.SchoolSafetyPage,5,ReportCardYear | DistrictNm | SchoolNm | SCHOOLID | SCHOOLTYPECD | PAR_ChildFeelsSafe | PAR_TchStopBully | PAR_NumResponses | TCH_IFeelSafe | TCH_RulesEnforced | TCH_NumResponses | OCR_FirearmYN | OCR_HomicideYN | OCR_Rape | OCR_SexAssault | OCR_RobwWeapon | OCR_RobwFirearm | OCR_RobNoWeapon | OCR_PhysAttachwWeapon | OCR_PhysAttackwFirearm | OCR_PhysAttachNoWeapon | OCR_ThreatPhysAttachwWeapon | OCR_ThreatPhysAttackwFirearm | OCR_ThreatPhysAttachNoWeapon | OCR_FirearmNum | OCR_InSchoolSuspension | OCR_OutOfSchoolSuspension | OCR_Expelled | OCR_ArrestsReferrals | OCR_BullyHarass
+data/report_cards/ReportCardData_AdditionalInfo2026.XLSx,8.FinancialDataPage,5,ReportCardYear | DistrictNm | SchoolNm | SCHOOLID | SCHOOLTYPECD | StudentsinPoverty_PctCurrYr | StudentsinPoverty_PctLastYr | TCHSALARY_AvgCurrYr | TCHSALARY_AvgLastYr | ExpendforInstruct_PctCurrYr | ExpendforInstruct_PctLastYr | ExpendforTchSalaries_PctCurrYr | ExpendforTchSalaries_PctLastYr | AdminSalary_CurrYr | AdminSalary_LastYr | StateLocalPersonnelPPE_CurrYr | StateLocalPersonnelPPE_LastYr | FedPersonnelPPE_CurrYr | FedPersonnelPPE_LastYr | StateLocalNonPersPPE_CurrYr | StateLocalNonPersPPE_LastYr | FederalNonPersonnelPPE_CurrYr | FederalNonPersonnelPPE_LastYr | TotalStateLocalPPE_CurrYr | TotalStateLocalPPE_LastYr | TotalFederalPPE_CurrYr | TotalFederalPPE_LastYr | TotalPPE_CurrYr | TotalPPE_LastYr
+data/report_cards/ReportCardData_forResearchers2022.XLSx,Cover Sheet,5,South Carolina Department of Education's Annual School and District Report Card System for South Carolina Public Schools and School Districts 2021-2022
+data/report_cards/ReportCardData_forResearchers2022.XLSx,Ratings,5,REPORT CARD RATINGS 2022 (102722) | ...2 | ...3 | ...4 | ...5 | ...6 | ...7 | ...8 | ...9 | ...10 | ...11 | ...12 | ...13 | ...14 | ...15 | ...16 | ...17 | ...18 | ...19 | ...20 | ...21 | ...22 | ...23 | ...24 | ...25 | ...26 | ...27 | ...28 | ...29 | ...30 | ...31 | ...32 | ...33 | ...34 | ...35 | ...36 | ...37 | ...38 | ...39 | ...40 | ...41 | ...42 | ...43 | ...44 | ...45 | ...46 | ...47 | ...48 | ...49 | ...50 | ...51 | ...52 | ...53 | ...54 | ...55 | ...56
+data/report_cards/ReportCardData_forResearchers2022.XLSx,KEY,5,WORKSHEET | COLUMN | LABEL
+data/report_cards/ReportCardData_forResearchers2022.XLSx,1.MainPage,5,"ReportCardYear | DistrictNm | SchoolNm | SCHOOLID | Report
+Card Type
+(P,E,M,H,D) | street | city | state | zip | GRADESPAN | Enrollment | hdphone | URL | headname | supername | chair | TeacherCount"
+data/report_cards/ReportCardData_forResearchers2022.XLSx,2a.AchievPrepSuccessELEMMIDD,5,ReportCardYear | DistrictNm | SchoolNm | SCHOOLID | SCHOOLTYPECD | E_PctME | E_PctExceeding | E_PctReady | E_PctClose | E_PctInNeedOfSupport | E_PctNotTest | E_NbrME | E_NbrExceeding | E_NbrReady | E_NbrClose | E_NbrInNeedOfSupport | E_NbrNotTest | E_NbrTOT | M_PctME | M_PctExceeding | M_PctReady | M_PctClose | M_PctInNeedOfSupport | M_PctNotTest | M_NbrME | M_NbrExceeding | M_NbrReady | M_NbrClose | M_NbrInNeedOfSupport | M_NbrNotTest | M_NbrTOT | SC_PctME | SC_PctExceeding | SC_PctReady | SC_PctClose | SC_PctInNeedOfSupport | SC_PctNotTest | SC_NbrME | SC_NbrExceeding | SC_NbrReady | SC_NbrClose | SC_NbrInNeedOfSupport | SC_NbrNotTest | SC_NbrTOT | Eg3_PctME | Eg3_PctExceeding | Eg3_PctReady | Eg3_PctClose | Eg3_PctInNeedOfSupport | Eg3_NbrME | Eg3_NbrExceeding | Eg3_NbrReady | Eg3_NbrClose | Eg3_NbrInNeedOfSupport | Eg3_NbrTOT | Eg4_PctME | Eg4_PctExceeding | Eg4_PctReady | Eg4_PctClose | Eg4_PctInNeedOfSupport | Eg4_NbrME | Eg4_NbrExceeding | Eg4_NbrReady | Eg4_NbrClose | Eg4_NbrInNeedOfSupport | Eg4_NbrTOT | Eg5_PctME | Eg5_PctExceeding | Eg5_PctReady | Eg5_PctClose | Eg5_PctInNeedOfSupport | Eg5_NbrME | Eg5_NbrExceeding | Eg5_NbrReady | Eg5_NbrClose | Eg5_NbrInNeedOfSupport | Eg5_NbrTOT | Eg6_PctME | Eg6_PctExceeding | Eg6_PctReady | Eg6_PctClose | Eg6_PctInNeedOfSupport | Eg6_NbrME | Eg6_NbrExceeding | Eg6_NbrReady | Eg6_NbrClose | Eg6_NbrInNeedOfSupport | Eg6_NbrTOT | Eg7_PctME | Eg7_PctExceeding | Eg7_PctReady | Eg7_PctClose | Eg7_PctInNeedOfSupport | Eg7_NbrME | Eg7_NbrExceeding | Eg7_NbrReady | Eg7_NbrClose | Eg7_NbrInNeedOfSupport | Eg7_NbrTOT | Eg8_PctME | Eg8_PctExceeding | Eg8_PctReady | Eg8_PctClose | Eg8_PctInNeedOfSupport | Eg8_NbrME | Eg8_NbrExceeding | Eg8_NbrReady | Eg8_NbrClose | Eg8_NbrInNeedOfSupport | Eg8_NbrTOT | Mg3_PctME | Mg3_PctExceeding | Mg3_PctReady | Mg3_PctClose | Mg3_PctInNeedOfSupport | Mg3_NbrME | Mg3_NbrExceeding | Mg3_NbrReady | Mg3_NbrClose | Mg3_NbrInNeedOfSupport | Mg3_NbrTOT | Mg4_PctME | Mg4_PctExceeding | Mg4_PctReady | Mg4_PctClose | Mg4_PctInNeedOfSupport | Mg4_NbrME | Mg4_NbrExceeding | Mg4_NbrReady | Mg4_NbrClose | Mg4_NbrInNeedOfSupport | Mg4_NbrTOT | Mg5_PctME | Mg5_PctExceeding | Mg5_PctReady | Mg5_PctClose | Mg5_PctInNeedOfSupport | Mg5_NbrME | Mg5_NbrExceeding | Mg5_NbrReady | Mg5_NbrClose | Mg5_NbrInNeedOfSupport | Mg5_NbrTOT | Mg6_PctME | Mg6_PctExceeding | Mg6_PctReady | Mg6_PctClose | Mg6_PctInNeedOfSupport | Mg6_NbrME | Mg6_NbrExceeding | Mg6_NbrReady | Mg6_NbrClose | Mg6_NbrInNeedOfSupport | Mg6_NbrTOT | Mg7_PctME | Mg7_PctExceeding | Mg7_PctReady | Mg7_PctClose | Mg7_PctInNeedOfSupport | Mg7_NbrME | Mg7_NbrExceeding | Mg7_NbrReady | Mg7_NbrClose | Mg7_NbrInNeedOfSupport | Mg7_NbrTOT | Mg8_PctME | Mg8_PctExceeding | Mg8_PctReady | Mg8_PctClose | Mg8_PctInNeedOfSupport | Mg8_NbrME | Mg8_NbrExceeding | Mg8_NbrReady | Mg8_NbrClose | Mg8_NbrInNeedOfSupport | Mg8_NbrTOT | SCg4_PctME | SCg4_NbrME | SCg6_PctME | SCg6_NbrME
+data/report_cards/ReportCardData_forResearchers2022.XLSx,2b.AchievPrepSuccessHIGH,5,ReportCardYear | DistrictNm | SchoolNm | SCHOOLID | SCHOOLTYPECD | E_PctABC | E_PctA | E_PctB | E_PctC | E_PctD | E_PctF | E_PctNT | E_NbrA | E_NbrB | E_NbrC | E_NbrD | E_NbrF | E_NbrNT | E_NbrABC | E_NbrTOT | M_PctABC | M_PctA | M_PctB | M_PctC | M_PctD | M_PctF | M_PctNT | M_NbrA | M_NbrB | M_NbrC | M_NbrD | M_NbrF | M_NbrNT | M_NbrABC | M_NbrTOT | SC_PctABC | SC_PctA | SC_PctB | SC_PctC | SC_PctD | SC_PctF | SC_PctNT | SC_NbrA | SC_NbrB | SC_NbrC | SC_NbrD | SC_NbrF | SC_NbrNT | SC_NbrABC | SC_NbrTOT | H_PctABC | H_PctA | H_PctB | H_PctC | H_PctD | H_PctF | H_Pctnt | H_NbrA | H_NbrB | H_NbrC | H_NbrD | H_NbrF | H_NbrNT | H_NbrABC | H_NbrTOT
+data/report_cards/ReportCardData_forResearchers2022.XLSx,2c.Participation,5,"ReportCardYear | DistrictNm | SchoolNm | SCHOOLID | SCHOOLTYPECD | %Tested_ALL
+STUDENTS | NTested_ALL
+STUDENTS | TotalN_ALL
+STUDENTS | %Tested_African
+American | NTested_African
+American | TotalN_African
+American | %Tested_Asian
+Pacific Islander | NTested_Asian
+Pacific Islander | TotalN_Asian
+Pacific
+Islander | %Tested_American
+Indian | NTested_American
+Indian | TotalN_American
+Indian | %Tested_Hispanic | NTested_Hispanic | TotalN_Hispanic | %Tested_Caucasian | NTested_Caucasian | TotalN_Caucasian | %Tested_English
+Learner | NTested_English
+Learner | TotalN_English
+Learner | %Tested_Disabled | NTested_Disabled | TotalN_Disabled | %Tested_Not
+Disabled | NTested_Not
+Disabled | TotalN_Not
+Disabled | %Tested_Econ
+Disadvantaged | NTested_Econ
+Disadvantaged | TotalN_Econ
+Disadvantaged | %Tested_NonEcon
+Disadvantaged | NTested_NonEcon
+Disadvantaged | TotalN_NonEcon
+Disadvantaged | %Tested_Male | NTested_Male | TotalN_Male | %Tested_Female | NTested_Female | TotalN_Female | %Tested_Migrant | NTested_Migrant | TotalN_Migrant | %Tested_Military
+Connected | NTested_Military
+Connected | TotalN_Military
+Connected | %Tested_Foster | NTested_Foster | TotalN_Foster | %Tested_Homeless | NTested_Homeless | TotalN_Homeless"
+data/report_cards/ReportCardData_forResearchers2022.XLSx,2d.Participation_bySubject,5,"ReportCardYear | DistrictNm | SchoolNm | SCHOOLID | SCHOOLTYPECD | %Tested_ELA
+STUDENTS | NTested_ELA
+STUDENTS | %notTest_ELA
+STUDENTS | NnotTest_ELA
+STUDENTS | TotalN_ELA
+STUDENTS | %Tested_ELA_African
+American | NTested_ELA_African
+American | %notTest_ELA_African
+American | NnotTest_ELA_African
+American | TotalN_ELA_African
+American | %Tested_ELA_Asian
+PacIsl | NTested_ELA_Asian
+PacIsl | %notTest_ELA_Asian
+PacIsl | NnotTest_ELA_Asian
+PacIsl | TotalN_ELA_Asian
+PacIsl | %Tested_ELA_American
+Indian | NTested_ELA_American
+Indian | %notTest_ELA_American
+Indian | NnotTest_ELA_American
+Indian | TotalN_ELA_American
+Indian | %Tested_ELA_Hispanic | NTested_ELA_Hispanic | %notTest_ELA_Hispanic | NnotTest_ELA_Hispanic | TotalN_ELA_Hispanic | %Tested_ELA_Caucasian | NTested_ELA_Caucasian | %notTest_ELA_Caucasian | NnotTest_ELA_Caucasian | TotalN_ELA_Caucasian | %Tested_ELA_English
+Learner | NTested_ELA_English
+Learner | %notTest_ELA_English
+Learner | NnotTest_ELA_English
+Learner | TotalN_ELA_English
+Learner | %Tested_ELA_Disabled | NTested_ELA_Disabled | %notTest_ELA_Disabled | NnotTest_ELA_Disabled | TotalN_ELA_Disabled | %Tested_ELA_Not
+Disabled | NTested_ELA_Not
+Disabled | %notTest_ELA_Not
+Disabled | NnotTest_ELA_Not
+Disabled | TotalN_ELA_Not
+Disabled | %Tested_ELA_Econ
+Disadvantaged | NTested_ELA_Econ
+Disadvantaged | %notTest_ELA_Econ
+Disadvantaged | NnotTest_ELA_Econ
+Disadvantaged | TotalN_ELA_Econ
+Disadvantaged | %Tested_ELA_NonEcon
+Disadvant | NTested_ELA_NonEcon
+Disadvant | %notTest_ELA_NonEcon
+Disadvant | NnotTest_ELA_NonEcon
+Disadvant | TotalN_ELA_NonEcon
+Disadvant | %Tested_ELA_Male | NTested_ELA_Male | %notTest_ELA_Male | NnotTest_ELA_Male | TotalN_ELA_Male | %Tested_ELA_Female | NTested_ELA_Female | %notTest_ELA_Female | NnotTest_ELA_Female | TotalN_ELA_Female | %Tested_ELA_Migrant | NTested_ELA_Migrant | %notTest_ELA_Migrant | NnotTest_ELA_Migrant | TotalN_ELA_Migrant | %Tested_ELA_Military
+Connected | NTested_ELA_Military
+Connected | %notTest_ELA_Military
+Connected | NnotTest_ELA_Military
+Connected | TotalN_ELA_Military
+Connected | %Tested_ELA_Foster | NTested_ELA_Foster | %notTest_ELA_Foster | NnotTest_ELA_Foster | TotalN_ELA_Foster | %Tested_ELA_Homeless | NTested_ELA_Homeless | %notTest_ELA_Homeless | NnotTest_ELA_Homeless | TotalN_ELA_Homeless | %Tested_MATH
+STUDENTS | NTested_MATH
+STUDENTS | %notTest_MATH
+STUDENTS | NnotTest_MATH
+STUDENTS | TotalN_MATH
+STUDENTS | %Tested_MATH_African
+American | NTested_MATH_African
+American | %notTest_MATH_African
+American | NnotTest_MATH_African
+American | TotalN_MATH_African
+American | %Tested_MATH_Asian
+PacIsl | NTested_MATH_Asian
+PacIsl | %notTest_MATH_Asian
+PacIsl | NnotTest_MATH_Asian
+PacIsl | TotalN_MATH_Asian
+PacIsl | %Tested_MATH_American
+Indian | NTested_MATH_American
+Indian | %notTest_MATH_American
+Indian | NnotTest_MATH_American
+Indian | TotalN_MATH_American
+Indian | %Tested_MATH_Hispanic | NTested_MATH_Hispanic | %notTest_MATH_Hispanic | NnotTest_MATH_Hispanic | TotalN_MATH_Hispanic | %Tested_MATH_Caucasian | NTested_MATH_Caucasian | %notTest_MATH_Caucasian | NnotTest_MATH_Caucasian | TotalN_MATH_Caucasian | %Tested_MATH_English
+Learner | NTested_MATH_English
+Learner | %notTest_MATH_English
+Learner | NnotTest_MATH_English
+Learner | TotalN_MATH_English
+Learner | %Tested_MATH_Disabled | NTested_MATH_Disabled | %notTest_MATH_Disabled | NnotTest_MATH_Disabled | TotalN_MATH_Disabled | %Tested_MATH_Not
+Disabled | NTested_MATH_Not
+Disabled | %notTest_MATH_Not
+Disabled | NnotTest_MATH_Not
+Disabled | TotalN_MATH_Not
+Disabled | %Tested_MATH_Econ
+Disadvantaged | NTested_MATH_Econ
+Disadvantaged | %notTest_MATH_Econ
+Disadvantaged | NnotTest_MATH_Econ
+Disadvantaged | TotalN_MATH_Econ
+Disadvantaged | %Tested_MATH_NonEcon
+Disadvant | NTested_MATH_NonEcon
+Disadvant | %notTest_MATH_NonEcon
+Disadvant | NnotTest_MATH_NonEcon
+Disadvant | TotalN_MATH_NonEcon
+Disadvant | %Tested_MATH_Male | NTested_MATH_Male | %notTest_MATH_Male | NnotTest_MATH_Male | TotalN_MATH_Male | %Tested_MATH_Female | NTested_MATH_Female | %notTest_MATH_Female | NnotTest_MATH_Female | TotalN_MATH_Female | %Tested_MATH_Migrant | NTested_MATH_Migrant | %notTest_MATH_Migrant | NnotTest_MATH_Migrant | TotalN_MATH_Migrant | %Tested_MATH_Military
+Connected | NTested_MATH_Military
+Connected | %notTest_MATH_Military
+Connected | NnotTest_MATH_Military
+Connected | TotalN_MATH_Military
+Connected | %Tested_MATH_Foster | NTested_MATH_Foster | %notTest_MATH_Foster | NnotTest_MATH_Foster | TotalN_MATH_Foster | %Tested_MATH_Homeless | NTested_MATH_Homeless | %notTest_MATH_Homeless | NnotTest_MATH_Homeless | TotalN_MATH_Homeless | %Tested_SCI
+STUDENTS | NTested_SCI
+STUDENTS | %notTest_SCI
+STUDENTS | NnotTest_SCInot
+STUDENTS | TotalN_SCI
+STUDENTS | %Tested_SCI_African
+American | NTested_SCI_African
+American | %notTest_SCI_African
+American | NnotTest_SCI_African
+American | TotalN_SCI_African
+American | %Tested_SCI_Asian
+PacIsl | NTested_SCI_Asian
+PacIsl | %notTest_SCI_Asian
+PacIsl | NnotTest_SCI_Asian
+PacIsl | TotalN_SCI_Asian
+PacIsl | %Tested_SCI_American
+Indian | NTested_SCI_American
+Indian | %notTest_SCI_American
+Indian | NnotTest_SCI_American
+Indian | TotalN_SCI_American
+Indian | %Tested_SCI_Hispanic | NTested_SCI_Hispanic | %notTest_SCI_Hispanic | NnotTest_SCI_Hispanic | TotalN_SCI_Hispanic | %Tested_SCI_Caucasian | NTested_SCI_Caucasian | %notTest_SCI_Caucasian | NnotTest_SCI_Caucasian | TotalN_SCI_Caucasian | %Tested_SCI_English
+Learner | NTested_SCI_English
+Learner | %notTest_SCI_English
+Learner | NnotTest_SCI_English
+Learner | TotalN_SCI_English
+Learner | %Tested_SCI_Disabled | NTested_SCI_Disabled | %notTest_SCI_Disabled | NnotTest_SCI_Disabled | TotalN_SCI_Disabled | %Tested_SCI_Not
+Disabled | NTested_SCI_Not
+Disabled | %notTest_SCI_Not
+Disabled | NnotTest_SCI_Not
+Disabled | TotalN_SCI_Not
+Disabled | %Tested_SCI_Econ
+Disadvantaged | NTested_SCI_Econ
+Disadvantaged | %notTest_SCI_Econ
+Disadvantaged | NnotTest_SCI_Econ
+Disadvantaged | TotalN_SCI_Econ
+Disadvantaged | %Tested_SCI_NonEcon
+Disadvant | NTested_SCI_NonEcon
+Disadvant | %notTest_SCI_NonEcon
+Disadvant | NnotTest_SCI_NonEcon
+Disadvant | TotalN_SCI_NonEcon
+Disadvant | %Tested_SCI_Male | NTested_SCI_Male | %notTest_SCI_Male | NnotTest_SCI_Male | TotalN_SCI_Male | %Tested_SCI_Female | NTested_SCI_Female | %notTest_SCI_Female | NnotTest_SCI_Female | TotalN_SCI_Female | %Tested_SCI_Migrant | NTested_SCI_Migrant | %notTest_SCI_Migrant | NnotTest_SCI_Migrant | TotalN_SCI_Migrant | %Tested_SCI_Military
+Connected | NTested_SCI_Military
+Connected | %notTest_SCI_Military
+Connected | NnotTest_SCI_Military
+Connected | TotalN_SCI_Military
+Connected | %Tested_SCI_Foster | NTested_SCI_Foster | %notTest_SCI_Foster | NnotTest_SCI_Foster | TotalN_SCI_Foster | %Tested_SCI_Homeless | NTested_SCI_Homeless | %notTest_SCI_Homeless | NnotTest_SCI_Homeless | TotalN_SCI_Homeless"
+data/report_cards/ReportCardData_forResearchers2022.XLSx,2e.ALT_Participation_bySubj,5,"ReportCardYear | DistrictNm | SchoolNm | SCHOOLID | SCHOOLTYPECD | %Tested_ALT
+STUDENTS | NTested_ALT
+STUDENTS | TotalN_ALT
+and
+NON-ALT
+STUDENTS | %Tested_ALT
+ELA
+STUDENTS | NTested_ALT
+ELA
+STUDENTS | TotN_ALTandNON-ALT
+ELA STUDENTS | %Tested_ALT
+MATH
+STUDENTS | NTested_ALT
+MATH
+STUDENTS | TotN_ALTandNON-ALT
+MATH STUDENTS | %Tested_ALT
+SCI
+STUDENTS | NTested_ALT
+SCI
+STUDENTS | TotN_ALTandNON-ALT
+SCI STUDENTS"
+data/report_cards/ReportCardData_forResearchers2022.XLSx,3.Gradrate,5,ReportCardYear | DistrictNm | SchoolNm | SCHOOLID | SCHOOLTYPECD | GRADRATE22 | GRADRATE21 | GRADRATE20 | GRADRATE19
+data/report_cards/ReportCardData_forResearchers2022.XLSx,4.CollegeCareer,5,ReportCardYear | DistrictNm | SchoolNm | SCHOOLID | SCHOOLTYPECD | PctCollege | NumCollege | PctCareer | NumCareer | PctCollORCareer | NumCollORCareer | PctCollANDCareer | NumCollANDCareer | NumInCohort | PctACT | NumACT | PctSAT | NumSAT | PctAP | NumAP | PctIB | NumIB | PctCamb | NumCamb | PctDual | NumDual | PctCTE | NumCTE | PctWBL | NumWBL | PctCarRdy | NumCarRdy | PctASVAB | NumASVAB | PctCred | NumCred
+data/report_cards/ReportCardData_forResearchers2022.XLSx,5.EnglishLearners,5,ReportCardYear | DistrictNm | SchoolNm | SCHOOLID | SchoolTypeCd | PctMetProg | NumMetProg | NumAssessed | NumELSubgroup
+data/report_cards/ReportCardData_forResearchers2022.XLSx,6.StudentProgress,5,ReportCardYear | DistrictNm | SchoolNm | SCHOOLID | SCHOOLTYPECD | PROGpctTOT | PROGpctALL | PROGpctL20
+data/report_cards/ReportCardData_forResearchers2022.XLSx,7.SchoolClimate,5,ReportCardYear | DISTRICT | SCHOOL | SCHOOLID | SCHOOLTYPECD | ClimateTOT | ClimTchInst | ClimTchWork | ClimTchSafe | ClimStuEnvi | ClimStuSafe | PctTchPartic | NumTchPartic | DenTchPartic | PctStuPartic | NumStuPartic | DenStuPartic
+data/report_cards/ReportCardData_forResearchers2023_3.XLSx,Cover Sheet,5,South Carolina Department of Education's Annual School and District Report Card System for South Carolina Public Schools and School Districts 2022-2023
+data/report_cards/ReportCardData_forResearchers2023_3.XLSx,Ratings,5,REPORT CARD RATINGS 2023 (100423) | ...2 | ...3 | ...4 | ...5 | ...6 | ...7 | ...8 | ...9 | ...10 | ...11 | ...12 | ...13 | ...14 | ...15 | ...16 | ...17 | ...18 | ...19 | ...20 | ...21 | ...22 | ...23 | ...24 | ...25 | ...26 | ...27 | ...28 | ...29 | ...30 | ...31 | ...32 | ...33 | ...34 | ...35 | ...36 | ...37 | ...38 | ...39 | ...40 | ...41 | ...42 | ...43 | ...44 | ...45 | ...46 | ...47 | ...48 | ...49 | ...50 | ...51 | ...52 | ...53 | ...54 | ...55 | ...56 | ...57 | ...58 | ...59 | ...60 | ...61 | ...62 | ...63 | ...64 | ...65
+data/report_cards/ReportCardData_forResearchers2023_3.XLSx,KEY,5,WORKSHEET | COLUMN | LABEL
+data/report_cards/ReportCardData_forResearchers2023_3.XLSx,1.MainPage,5,ReportCardYear | DistrictNm | SchoolNm | SCHOOLID | SCHOOLTYPECD | street | city | state | zip | GRADESPAN | Enrollment | hdphone | URL | headname | supername | chair | TeacherCount
+data/report_cards/ReportCardData_forResearchers2023_3.XLSx,2a.AchievPrepSuccessELEMMIDD,5,ReportCardYear | DistrictNm | SchoolNm | SCHOOLID | SCHOOLTYPECD | E_PctME | E_PctExceeding | E_PctReady | E_PctClose | E_PctInNeedOfSupport | E_PctNotTest | E_NbrME | E_NbrExceeding | E_NbrReady | E_NbrClose | E_NbrInNeedOfSupport | E_NbrNotTest | E_NbrTOT | M_PctME | M_PctExceeding | M_PctReady | M_PctClose | M_PctInNeedOfSupport | M_PctNotTest | M_NbrME | M_NbrExceeding | M_NbrReady | M_NbrClose | M_NbrInNeedOfSupport | M_NbrNotTest | M_NbrTOT | SC_PctME | SC_PctExceeding | SC_PctReady | SC_PctClose | SC_PctInNeedOfSupport | SC_PctNotTest | SC_NbrME | SC_NbrExceeding | SC_NbrReady | SC_NbrClose | SC_NbrInNeedOfSupport | SC_NbrNotTest | SC_NbrTOT | Eg3_PctME | Eg3_PctExceeding | Eg3_PctReady | Eg3_PctClose | Eg3_PctInNeedOfSupport | Eg3_NbrME | Eg3_NbrExceeding | Eg3_NbrReady | Eg3_NbrClose | Eg3_NbrInNeedOfSupport | Eg3_NbrTOT | Eg4_PctME | Eg4_PctExceeding | Eg4_PctReady | Eg4_PctClose | Eg4_PctInNeedOfSupport | Eg4_NbrME | Eg4_NbrExceeding | Eg4_NbrReady | Eg4_NbrClose | Eg4_NbrInNeedOfSupport | Eg4_NbrTOT | Eg5_PctME | Eg5_PctExceeding | Eg5_PctReady | Eg5_PctClose | Eg5_PctInNeedOfSupport | Eg5_NbrME | Eg5_NbrExceeding | Eg5_NbrReady | Eg5_NbrClose | Eg5_NbrInNeedOfSupport | Eg5_NbrTOT | Eg6_PctME | Eg6_PctExceeding | Eg6_PctReady | Eg6_PctClose | Eg6_PctInNeedOfSupport | Eg6_NbrME | Eg6_NbrExceeding | Eg6_NbrReady | Eg6_NbrClose | Eg6_NbrInNeedOfSupport | Eg6_NbrTOT | Eg7_PctME | Eg7_PctExceeding | Eg7_PctReady | Eg7_PctClose | Eg7_PctInNeedOfSupport | Eg7_NbrME | Eg7_NbrExceeding | Eg7_NbrReady | Eg7_NbrClose | Eg7_NbrInNeedOfSupport | Eg7_NbrTOT | Eg8_PctME | Eg8_PctExceeding | Eg8_PctReady | Eg8_PctClose | Eg8_PctInNeedOfSupport | Eg8_NbrME | Eg8_NbrExceeding | Eg8_NbrReady | Eg8_NbrClose | Eg8_NbrInNeedOfSupport | Eg8_NbrTOT | Mg3_PctME | Mg3_PctExceeding | Mg3_PctReady | Mg3_PctClose | Mg3_PctInNeedOfSupport | Mg3_NbrME | Mg3_NbrExceeding | Mg3_NbrReady | Mg3_NbrClose | Mg3_NbrInNeedOfSupport | Mg3_NbrTOT | Mg4_PctME | Mg4_PctExceeding | Mg4_PctReady | Mg4_PctClose | Mg4_PctInNeedOfSupport | Mg4_NbrME | Mg4_NbrExceeding | Mg4_NbrReady | Mg4_NbrClose | Mg4_NbrInNeedOfSupport | Mg4_NbrTOT | Mg5_PctME | Mg5_PctExceeding | Mg5_PctReady | Mg5_PctClose | Mg5_PctInNeedOfSupport | Mg5_NbrME | Mg5_NbrExceeding | Mg5_NbrReady | Mg5_NbrClose | Mg5_NbrInNeedOfSupport | Mg5_NbrTOT | Mg6_PctME | Mg6_PctExceeding | Mg6_PctReady | Mg6_PctClose | Mg6_PctInNeedOfSupport | Mg6_NbrME | Mg6_NbrExceeding | Mg6_NbrReady | Mg6_NbrClose | Mg6_NbrInNeedOfSupport | Mg6_NbrTOT | Mg7_PctME | Mg7_PctExceeding | Mg7_PctReady | Mg7_PctClose | Mg7_PctInNeedOfSupport | Mg7_NbrME | Mg7_NbrExceeding | Mg7_NbrReady | Mg7_NbrClose | Mg7_NbrInNeedOfSupport | Mg7_NbrTOT | Mg8_PctME | Mg8_PctExceeding | Mg8_PctReady | Mg8_PctClose | Mg8_PctInNeedOfSupport | Mg8_NbrME | Mg8_NbrExceeding | Mg8_NbrReady | Mg8_NbrClose | Mg8_NbrInNeedOfSupport | Mg8_NbrTOT | SCg4_PctME | SCg4_NbrME | SCg6_PctME | SCg6_NbrME
+data/report_cards/ReportCardData_forResearchers2023_3.XLSx,2b.AchievPrepSuccessHIGH,5,ReportCardYear | DistrictNm | SchoolNm | SCHOOLID | SCHOOLTYPECD | E_PctABC | E_PctA | E_PctB | E_PctC | E_PctD | E_PctF | E_PctNT | E_NbrA | E_NbrB | E_NbrC | E_NbrD | E_NbrF | E_NbrNT | E_NbrABC | E_NbrTOT | M_PctABC | M_PctA | M_PctB | M_PctC | M_PctD | M_PctF | M_PctNT | M_NbrA | M_NbrB | M_NbrC | M_NbrD | M_NbrF | M_NbrNT | M_NbrABC | M_NbrTOT | SC_PctABC | SC_PctA | SC_PctB | SC_PctC | SC_PctD | SC_PctF | SC_PctNT | SC_NbrA | SC_NbrB | SC_NbrC | SC_NbrD | SC_NbrF | SC_NbrNT | SC_NbrABC | SC_NbrTOT | H_PctABC | H_PctA | H_PctB | H_PctC | H_PctD | H_PctF | H_Pctnt | H_NbrA | H_NbrB | H_NbrC | H_NbrD | H_NbrF | H_NbrNT | H_NbrABC | H_NbrTOT
+data/report_cards/ReportCardData_forResearchers2023_3.XLSx,2c.Participation,5,"ReportCardYear | DistrictNm | SchoolNm | SCHOOLID | SCHOOLTYPECD | %Tested_ALL
+STUDENTS | NTested_ALL
+STUDENTS | TotalN_ALL
+STUDENTS | %Tested_African
+American | NTested_African
+American | TotalN_African
+American | %Tested_Asian
+Pacific Islander | NTested_Asian
+Pacific Islander | TotalN_Asian
+Pacific
+Islander | %Tested_American
+Indian | NTested_American
+Indian | TotalN_American
+Indian | %Tested_Hispanic | NTested_Hispanic | TotalN_Hispanic | %Tested_Caucasian | NTested_Caucasian | TotalN_Caucasian | %Tested_English
+Learner | NTested_English
+Learner | TotalN_English
+Learner | %Tested_Disabled | NTested_Disabled | TotalN_Disabled | %Tested_Not
+Disabled | NTested_Not
+Disabled | TotalN_Not
+Disabled | %Tested_Econ
+Disadvantaged | NTested_Econ
+Disadvantaged | TotalN_Econ
+Disadvantaged | %Tested_NonEcon
+Disadvantaged | NTested_NonEcon
+Disadvantaged | TotalN_NonEcon
+Disadvantaged | %Tested_Male | NTested_Male | TotalN_Male | %Tested_Female | NTested_Female | TotalN_Female | %Tested_Migrant | NTested_Migrant | TotalN_Migrant | %Tested_Military
+Connected | NTested_Military
+Connected | TotalN_Military
+Connected | %Tested_Foster | NTested_Foster | TotalN_Foster | %Tested_Homeless | NTested_Homeless | TotalN_Homeless"
+data/report_cards/ReportCardData_forResearchers2023_3.XLSx,2d.Participation_bySubject,5,"ReportCardYear | DistrictNm | SchoolNm | SCHOOLID | SCHOOLTYPECD | %Tested_ELA
+STUDENTS | NTested_ELA
+STUDENTS | %notTest_ELA
+STUDENTS | NnotTest_ELA
+STUDENTS | TotalN_ELA
+STUDENTS | %Tested_ELA_African
+American | NTested_ELA_African
+American | %notTest_ELA_African
+American | NnotTest_ELA_African
+American | TotalN_ELA_African
+American | %Tested_ELA_Asian
+PacIsl | NTested_ELA_Asian
+PacIsl | %notTest_ELA_Asian
+PacIsl | NnotTest_ELA_Asian
+PacIsl | TotalN_ELA_Asian
+PacIsl | %Tested_ELA_American
+Indian | NTested_ELA_American
+Indian | %notTest_ELA_American
+Indian | NnotTest_ELA_American
+Indian | TotalN_ELA_American
+Indian | %Tested_ELA_Hispanic | NTested_ELA_Hispanic | %notTest_ELA_Hispanic | NnotTest_ELA_Hispanic | TotalN_ELA_Hispanic | %Tested_ELA_Caucasian | NTested_ELA_Caucasian | %notTest_ELA_Caucasian | NnotTest_ELA_Caucasian | TotalN_ELA_Caucasian | %Tested_ELA_English
+Learner | NTested_ELA_English
+Learner | %notTest_ELA_English
+Learner | NnotTest_ELA_English
+Learner | TotalN_ELA_English
+Learner | %Tested_ELA_Disabled | NTested_ELA_Disabled | %notTest_ELA_Disabled | NnotTest_ELA_Disabled | TotalN_ELA_Disabled | %Tested_ELA_Not
+Disabled | NTested_ELA_Not
+Disabled | %notTest_ELA_Not
+Disabled | NnotTest_ELA_Not
+Disabled | TotalN_ELA_Not
+Disabled | %Tested_ELA_Econ
+Disadvantaged | NTested_ELA_Econ
+Disadvantaged | %notTest_ELA_Econ
+Disadvantaged | NnotTest_ELA_Econ
+Disadvantaged | TotalN_ELA_Econ
+Disadvantaged | %Tested_ELA_NonEcon
+Disadvant | NTested_ELA_NonEcon
+Disadvant | %notTest_ELA_NonEcon
+Disadvant | NnotTest_ELA_NonEcon
+Disadvant | TotalN_ELA_NonEcon
+Disadvant | %Tested_ELA_Male | NTested_ELA_Male | %notTest_ELA_Male | NnotTest_ELA_Male | TotalN_ELA_Male | %Tested_ELA_Female | NTested_ELA_Female | %notTest_ELA_Female | NnotTest_ELA_Female | TotalN_ELA_Female | %Tested_ELA_Migrant | NTested_ELA_Migrant | %notTest_ELA_Migrant | NnotTest_ELA_Migrant | TotalN_ELA_Migrant | %Tested_ELA_Military
+Connected | NTested_ELA_Military
+Connected | %notTest_ELA_Military
+Connected | NnotTest_ELA_Military
+Connected | TotalN_ELA_Military
+Connected | %Tested_ELA_Foster | NTested_ELA_Foster | %notTest_ELA_Foster | NnotTest_ELA_Foster | TotalN_ELA_Foster | %Tested_ELA_Homeless | NTested_ELA_Homeless | %notTest_ELA_Homeless | NnotTest_ELA_Homeless | TotalN_ELA_Homeless | %Tested_MATH
+STUDENTS | NTested_MATH
+STUDENTS | %notTest_MATH
+STUDENTS | NnotTest_MATH
+STUDENTS | TotalN_MATH
+STUDENTS | %Tested_MATH_African
+American | NTested_MATH_African
+American | %notTest_MATH_African
+American | NnotTest_MATH_African
+American | TotalN_MATH_African
+American | %Tested_MATH_Asian
+PacIsl | NTested_MATH_Asian
+PacIsl | %notTest_MATH_Asian
+PacIsl | NnotTest_MATH_Asian
+PacIsl | TotalN_MATH_Asian
+PacIsl | %Tested_MATH_American
+Indian | NTested_MATH_American
+Indian | %notTest_MATH_American
+Indian | NnotTest_MATH_American
+Indian | TotalN_MATH_American
+Indian | %Tested_MATH_Hispanic | NTested_MATH_Hispanic | %notTest_MATH_Hispanic | NnotTest_MATH_Hispanic | TotalN_MATH_Hispanic | %Tested_MATH_Caucasian | NTested_MATH_Caucasian | %notTest_MATH_Caucasian | NnotTest_MATH_Caucasian | TotalN_MATH_Caucasian | %Tested_MATH_English
+Learner | NTested_MATH_English
+Learner | %notTest_MATH_English
+Learner | NnotTest_MATH_English
+Learner | TotalN_MATH_English
+Learner | %Tested_MATH_Disabled | NTested_MATH_Disabled | %notTest_MATH_Disabled | NnotTest_MATH_Disabled | TotalN_MATH_Disabled | %Tested_MATH_Not
+Disabled | NTested_MATH_Not
+Disabled | %notTest_MATH_Not
+Disabled | NnotTest_MATH_Not
+Disabled | TotalN_MATH_Not
+Disabled | %Tested_MATH_Econ
+Disadvantaged | NTested_MATH_Econ
+Disadvantaged | %notTest_MATH_Econ
+Disadvantaged | NnotTest_MATH_Econ
+Disadvantaged | TotalN_MATH_Econ
+Disadvantaged | %Tested_MATH_NonEcon
+Disadvant | NTested_MATH_NonEcon
+Disadvant | %notTest_MATH_NonEcon
+Disadvant | NnotTest_MATH_NonEcon
+Disadvant | TotalN_MATH_NonEcon
+Disadvant | %Tested_MATH_Male | NTested_MATH_Male | %notTest_MATH_Male | NnotTest_MATH_Male | TotalN_MATH_Male | %Tested_MATH_Female | NTested_MATH_Female | %notTest_MATH_Female | NnotTest_MATH_Female | TotalN_MATH_Female | %Tested_MATH_Migrant | NTested_MATH_Migrant | %notTest_MATH_Migrant | NnotTest_MATH_Migrant | TotalN_MATH_Migrant | %Tested_MATH_Military
+Connected | NTested_MATH_Military
+Connected | %notTest_MATH_Military
+Connected | NnotTest_MATH_Military
+Connected | TotalN_MATH_Military
+Connected | %Tested_MATH_Foster | NTested_MATH_Foster | %notTest_MATH_Foster | NnotTest_MATH_Foster | TotalN_MATH_Foster | %Tested_MATH_Homeless | NTested_MATH_Homeless | %notTest_MATH_Homeless | NnotTest_MATH_Homeless | TotalN_MATH_Homeless | %Tested_SCI
+STUDENTS | NTested_SCI
+STUDENTS | %notTest_SCI
+STUDENTS | NnotTest_SCInot
+STUDENTS | TotalN_SCI
+STUDENTS | %Tested_SCI_African
+American | NTested_SCI_African
+American | %notTest_SCI_African
+American | NnotTest_SCI_African
+American | TotalN_SCI_African
+American | %Tested_SCI_Asian
+PacIsl | NTested_SCI_Asian
+PacIsl | %notTest_SCI_Asian
+PacIsl | NnotTest_SCI_Asian
+PacIsl | TotalN_SCI_Asian
+PacIsl | %Tested_SCI_American
+Indian | NTested_SCI_American
+Indian | %notTest_SCI_American
+Indian | NnotTest_SCI_American
+Indian | TotalN_SCI_American
+Indian | %Tested_SCI_Hispanic | NTested_SCI_Hispanic | %notTest_SCI_Hispanic | NnotTest_SCI_Hispanic | TotalN_SCI_Hispanic | %Tested_SCI_Caucasian | NTested_SCI_Caucasian | %notTest_SCI_Caucasian | NnotTest_SCI_Caucasian | TotalN_SCI_Caucasian | %Tested_SCI_English
+Learner | NTested_SCI_English
+Learner | %notTest_SCI_English
+Learner | NnotTest_SCI_English
+Learner | TotalN_SCI_English
+Learner | %Tested_SCI_Disabled | NTested_SCI_Disabled | %notTest_SCI_Disabled | NnotTest_SCI_Disabled | TotalN_SCI_Disabled | %Tested_SCI_Not
+Disabled | NTested_SCI_Not
+Disabled | %notTest_SCI_Not
+Disabled | NnotTest_SCI_Not
+Disabled | TotalN_SCI_Not
+Disabled | %Tested_SCI_Econ
+Disadvantaged | NTested_SCI_Econ
+Disadvantaged | %notTest_SCI_Econ
+Disadvantaged | NnotTest_SCI_Econ
+Disadvantaged | TotalN_SCI_Econ
+Disadvantaged | %Tested_SCI_NonEcon
+Disadvant | NTested_SCI_NonEcon
+Disadvant | %notTest_SCI_NonEcon
+Disadvant | NnotTest_SCI_NonEcon
+Disadvant | TotalN_SCI_NonEcon
+Disadvant | %Tested_SCI_Male | NTested_SCI_Male | %notTest_SCI_Male | NnotTest_SCI_Male | TotalN_SCI_Male | %Tested_SCI_Female | NTested_SCI_Female | %notTest_SCI_Female | NnotTest_SCI_Female | TotalN_SCI_Female | %Tested_SCI_Migrant | NTested_SCI_Migrant | %notTest_SCI_Migrant | NnotTest_SCI_Migrant | TotalN_SCI_Migrant | %Tested_SCI_Military
+Connected | NTested_SCI_Military
+Connected | %notTest_SCI_Military
+Connected | NnotTest_SCI_Military
+Connected | TotalN_SCI_Military
+Connected | %Tested_SCI_Foster | NTested_SCI_Foster | %notTest_SCI_Foster | NnotTest_SCI_Foster | TotalN_SCI_Foster | %Tested_SCI_Homeless | NTested_SCI_Homeless | %notTest_SCI_Homeless | NnotTest_SCI_Homeless | TotalN_SCI_Homeless"
+data/report_cards/ReportCardData_forResearchers2023_3.XLSx,2e.ALT_Participation_bySubj,5,"ReportCardYear | DistrictNm | SchoolNm | SCHOOLID | SCHOOLTYPECD | %Tested_ALT
+STUDENTS | NTested_ALT
+STUDENTS | TotalN_ALT
+and
+NON-ALT
+STUDENTS | %Tested_ALT
+ELA
+STUDENTS | NTested_ALT
+ELA
+STUDENTS | TotN_ALTandNON-ALT
+ELA STUDENTS | %Tested_ALT
+MATH
+STUDENTS | NTested_ALT
+MATH
+STUDENTS | TotN_ALTandNON-ALT
+MATH STUDENTS | %Tested_ALT
+SCI
+STUDENTS | NTested_ALT
+SCI
+STUDENTS | TotN_ALTandNON-ALT
+SCI STUDENTS"
+data/report_cards/ReportCardData_forResearchers2023_3.XLSx,3.Gradrate,5,ReportCardYear | DistrictNm | SchoolNm | SCHOOLID | SCHOOLTYPECD | GRADRATE23 | GRADRATE22 | GRADRATE21 | GRADRATE20
+data/report_cards/ReportCardData_forResearchers2023_3.XLSx,4.CollegeCareer,5,ReportCardYear | DistrictNm | SchoolNm | SCHOOLID | SCHOOLTYPECD | PctCollege | NumCollege | PctCareer | NumCareer | PctCollORCareer | NumCollORCareer | PctCollANDCareer | NumCollANDCareer | NumInCohort | PctACT | NumACT | PctSAT | NumSAT | PctAP | NumAP | PctIB | NumIB | PctCamb | NumCamb | PctDual | NumDual | PctCTE | NumCTE | PctWBL | NumWBL | PctCarRdy | NumCarRdy | PctASVAB | NumASVAB | PctCred | NumCred
+data/report_cards/ReportCardData_forResearchers2023_3.XLSx,5.EnglishLearners,5,ReportCardYear | DistrictNm | SchoolNm | SCHOOLID | SchoolTypeCd | PctMetProg | NumMetProg | NumAssessed | NumELSubgroup
+data/report_cards/ReportCardData_forResearchers2023_3.XLSx,6.StudentProgress,5,ReportCardYear | DistrictNm | SchoolNm | SCHOOLID | SCHOOLTYPECD | PROGpctTOT | PROGpctALL | PROGpctL20
+data/report_cards/ReportCardData_forResearchers2023_3.XLSx,7.SchoolClimate,5,ReportCardYear | DISTRICT | SCHOOL | SCHOOLID | SCHOOLTYPECD | ClimateTOT | ClimTchInst | ClimTchWork | ClimTchSafe | ClimStuEnvi | ClimStuSafe | PctTchPartic | NumTchPartic | DenTchPartic | PctStuPartic | NumStuPartic | DenStuPartic | RATING
+data/report_cards/ReportCardData_forResearchers2023_3.XLSx,8.HS_Success,5,ReportCardYear | DISTRICT | SCHOOL | SCHOOLID | SCHOOLTYPECD | PCT_SUCCESS | NUM_SUCCESS | DEN_SUCCESS | PCT_ONTRACK | NUM_ONTRACK | DEN_ONTRACK | PCT_5YRGRAD | NUM_5YRGRAD | DEN_5YRGRAD
+data/report_cards/ReportCardData_forResearchers2024_11.xlsx,Cover Sheet,5,South Carolina Department of Education's Annual School and District Report Card System for South Carolina Public Schools and School Districts 2023-2024
+data/report_cards/ReportCardData_forResearchers2024_11.xlsx,REPORT_CARD_RATINGS,5,ReportCardYear | DistrictNm | SchoolNm | SCHOOLID | SCHOOLTYPECD | SPAN | POVERTYINDX | PARTICRATE | SMALLSCHOOL20 | ADM3to12 | ADM3to5 | ADM6to8 | ADM9to12 | MISSIND_EM | MISSIND_H | RATE_OVERALL | INDX_OVERALL | PCT_OVERALL | NUM_OVERALL | DEN_OVERALL | NUM_ACHIEVE | DEN_ACHIEVE | INDX_ACHIEVE | RATE_ACHIEVE | N_Achieve | NUM_PREPSUCCESS | DEN_PREPSUCCESS | INDX_PREPSUCCESS | RATE_PREPSUCCESS | N_PREP | NUM_PROGRESS | DEN_PROGRESS | INDX_PROGRESS | RATE_PROGRESS | N_PROGRESS | NUM_GRADRATE | DEN_GRADRATE | INDX_GRADRATE | RATE_GRADRATE | N_GRADRATE | NUM_CCR | DEN_CCR | INDX_CCR | RATE_CCR | N_CCR | NUM_SUCCESS | DEN_SUCCESS | INDX_SUCCESS | RATE_SUCCESS | N_SUCCESS | NUM_EL | DEN_EL | INDX_EL | RATE_EL | N_EL | NUM_CLIMATE | DEN_CLIMATE | INDX_CLIMATE | RATE_CLIMATE | N_ClimateStu | N_ClimateTch | ACHIEVE_ADJUST | PARTADJUST_ACHIEVE | PARTADJUST_OVERALL | OVERALLLT20 | PROGRESS_ADJUST | GRADRATE_ADJUST | MISSem | MISSh
+data/report_cards/ReportCardData_forResearchers2024_11.xlsx,KEY,5,WORKSHEET | COLUMN | LABEL
+data/report_cards/ReportCardData_forResearchers2024_11.xlsx,1.MainPage,5,"ReportCardYear | DistrictNm | SchoolNm | SCHOOLID | Report
+Card Type
+(P,E,M,H,D) | street | city | state | zip | GRADESPAN | Enrollment | hdphone | URL | headname | supername | chair | TeacherCount"
+data/report_cards/ReportCardData_forResearchers2024_11.xlsx,2a.AchievPrepSuccessELEMMIDD,5,ReportCardYear | DistrictNm | SchoolNm | SCHOOLID | SCHOOLTYPECD | E_PctME | E_PctExceeding | E_PctReady | E_PctClose | E_PctInNeedOfSupport | E_PctNotTest | E_NbrME | E_NbrExceeding | E_NbrReady | E_NbrClose | E_NbrInNeedOfSupport | E_NbrNotTest | E_NbrTOT | M_PctME | M_PctExceeding | M_PctReady | M_PctClose | M_PctInNeedOfSupport | M_PctNotTest | M_NbrME | M_NbrExceeding | M_NbrReady | M_NbrClose | M_NbrInNeedOfSupport | M_NbrNotTest | M_NbrTOT | SC_PctME | SC_PctExceeding | SC_PctReady | SC_PctClose | SC_PctInNeedOfSupport | SC_PctNotTest | SC_NbrME | SC_NbrExceeding | SC_NbrReady | SC_NbrClose | SC_NbrInNeedOfSupport | SC_NbrNotTest | SC_NbrTOT | Eg3_PctME | Eg3_PctExceeding | Eg3_PctReady | Eg3_PctClose | Eg3_PctInNeedOfSupport | Eg3_NbrME | Eg3_NbrExceeding | Eg3_NbrReady | Eg3_NbrClose | Eg3_NbrInNeedOfSupport | Eg3_NbrTOT | Eg4_PctME | Eg4_PctExceeding | Eg4_PctReady | Eg4_PctClose | Eg4_PctInNeedOfSupport | Eg4_NbrME | Eg4_NbrExceeding | Eg4_NbrReady | Eg4_NbrClose | Eg4_NbrInNeedOfSupport | Eg4_NbrTOT | Eg5_PctME | Eg5_PctExceeding | Eg5_PctReady | Eg5_PctClose | Eg5_PctInNeedOfSupport | Eg5_NbrME | Eg5_NbrExceeding | Eg5_NbrReady | Eg5_NbrClose | Eg5_NbrInNeedOfSupport | Eg5_NbrTOT | Eg6_PctME | Eg6_PctExceeding | Eg6_PctReady | Eg6_PctClose | Eg6_PctInNeedOfSupport | Eg6_NbrME | Eg6_NbrExceeding | Eg6_NbrReady | Eg6_NbrClose | Eg6_NbrInNeedOfSupport | Eg6_NbrTOT | Eg7_PctME | Eg7_PctExceeding | Eg7_PctReady | Eg7_PctClose | Eg7_PctInNeedOfSupport | Eg7_NbrME | Eg7_NbrExceeding | Eg7_NbrReady | Eg7_NbrClose | Eg7_NbrInNeedOfSupport | Eg7_NbrTOT | Eg8_PctME | Eg8_PctExceeding | Eg8_PctReady | Eg8_PctClose | Eg8_PctInNeedOfSupport | Eg8_NbrME | Eg8_NbrExceeding | Eg8_NbrReady | Eg8_NbrClose | Eg8_NbrInNeedOfSupport | Eg8_NbrTOT | Mg3_PctME | Mg3_PctExceeding | Mg3_PctReady | Mg3_PctClose | Mg3_PctInNeedOfSupport | Mg3_NbrME | Mg3_NbrExceeding | Mg3_NbrReady | Mg3_NbrClose | Mg3_NbrInNeedOfSupport | Mg3_NbrTOT | Mg4_PctME | Mg4_PctExceeding | Mg4_PctReady | Mg4_PctClose | Mg4_PctInNeedOfSupport | Mg4_NbrME | Mg4_NbrExceeding | Mg4_NbrReady | Mg4_NbrClose | Mg4_NbrInNeedOfSupport | Mg4_NbrTOT | Mg5_PctME | Mg5_PctExceeding | Mg5_PctReady | Mg5_PctClose | Mg5_PctInNeedOfSupport | Mg5_NbrME | Mg5_NbrExceeding | Mg5_NbrReady | Mg5_NbrClose | Mg5_NbrInNeedOfSupport | Mg5_NbrTOT | Mg6_PctME | Mg6_PctExceeding | Mg6_PctReady | Mg6_PctClose | Mg6_PctInNeedOfSupport | Mg6_NbrME | Mg6_NbrExceeding | Mg6_NbrReady | Mg6_NbrClose | Mg6_NbrInNeedOfSupport | Mg6_NbrTOT | Mg7_PctME | Mg7_PctExceeding | Mg7_PctReady | Mg7_PctClose | Mg7_PctInNeedOfSupport | Mg7_NbrME | Mg7_NbrExceeding | Mg7_NbrReady | Mg7_NbrClose | Mg7_NbrInNeedOfSupport | Mg7_NbrTOT | Mg8_PctME | Mg8_PctExceeding | Mg8_PctReady | Mg8_PctClose | Mg8_PctInNeedOfSupport | Mg8_NbrME | Mg8_NbrExceeding | Mg8_NbrReady | Mg8_NbrClose | Mg8_NbrInNeedOfSupport | Mg8_NbrTOT | SCg4_PctME | SCg4_NbrME | SCg6_PctME | SCg6_NbrME
+data/report_cards/ReportCardData_forResearchers2024_11.xlsx,2b.AchievPrepSuccessHIGH,5,ReportCardYear | DistrictNm | SchoolNm | SCHOOLID | SCHOOLTYPECD | E_PctABC | E_PctA | E_PctB | E_PctC | E_PctD | E_PctF | E_PctNT | E_NbrA | E_NbrB | E_NbrC | E_NbrD | E_NbrF | E_NbrNT | E_NbrABC | E_NbrTOT | M_PctABC | M_PctA | M_PctB | M_PctC | M_PctD | M_PctF | M_PctNT | M_NbrA | M_NbrB | M_NbrC | M_NbrD | M_NbrF | M_NbrNT | M_NbrABC | M_NbrTOT | SC_PctABC | SC_PctA | SC_PctB | SC_PctC | SC_PctD | SC_PctF | SC_PctNT | SC_NbrA | SC_NbrB | SC_NbrC | SC_NbrD | SC_NbrF | SC_NbrNT | SC_NbrABC | SC_NbrTOT | H_PctABC | H_PctA | H_PctB | H_PctC | H_PctD | H_PctF | H_Pctnt | H_NbrA | H_NbrB | H_NbrC | H_NbrD | H_NbrF | H_NbrNT | H_NbrABC | H_NbrTOT
+data/report_cards/ReportCardData_forResearchers2024_11.xlsx,2c.Participation,5,"ReportCardYear | DistrictNm | SchoolNm | SCHOOLID | SCHOOLTYPECD | %Tested_ALL
+STUDENTS | NTested_ALL
+STUDENTS | TotalN_ALL
+STUDENTS | %Tested_African
+American | NTested_African
+American | TotalN_African
+American | %Tested_Asian
+Pacific Islander | NTested_Asian
+Pacific Islander | TotalN_Asian
+Pacific
+Islander | %Tested_American
+Indian | NTested_American
+Indian | TotalN_American
+Indian | %Tested_Hispanic | NTested_Hispanic | TotalN_Hispanic | %Tested_Caucasian | NTested_Caucasian | TotalN_Caucasian | %Tested_English
+Learner | NTested_English
+Learner | TotalN_English
+Learner | %Tested_Disabled | NTested_Disabled | TotalN_Disabled | %Tested_Not
+Disabled | NTested_Not
+Disabled | TotalN_Not
+Disabled | %Tested_Econ
+Disadvantaged | NTested_Econ
+Disadvantaged | TotalN_Econ
+Disadvantaged | %Tested_NonEcon
+Disadvantaged | NTested_NonEcon
+Disadvantaged | TotalN_NonEcon
+Disadvantaged | %Tested_Male | NTested_Male | TotalN_Male | %Tested_Female | NTested_Female | TotalN_Female | %Tested_Migrant | NTested_Migrant | TotalN_Migrant | %Tested_Military
+Connected | NTested_Military
+Connected | TotalN_Military
+Connected | %Tested_Foster | NTested_Foster | TotalN_Foster | %Tested_Homeless | NTested_Homeless | TotalN_Homeless"
+data/report_cards/ReportCardData_forResearchers2024_11.xlsx,2d.Participation_bySubject,5,"ReportCardYear | DistrictNm | SchoolNm | SCHOOLID | SCHOOLTYPECD | %Tested_ELA
+STUDENTS | NTested_ELA
+STUDENTS | %notTest_ELA
+STUDENTS | NnotTest_ELA
+STUDENTS | TotalN_ELA
+STUDENTS | %Tested_ELA_African
+American | NTested_ELA_African
+American | %notTest_ELA_African
+American | NnotTest_ELA_African
+American | TotalN_ELA_African
+American | %Tested_ELA_Asian
+PacIsl | NTested_ELA_Asian
+PacIsl | %notTest_ELA_Asian
+PacIsl | NnotTest_ELA_Asian
+PacIsl | TotalN_ELA_Asian
+PacIsl | %Tested_ELA_American
+Indian | NTested_ELA_American
+Indian | %notTest_ELA_American
+Indian | NnotTest_ELA_American
+Indian | TotalN_ELA_American
+Indian | %Tested_ELA_Hispanic | NTested_ELA_Hispanic | %notTest_ELA_Hispanic | NnotTest_ELA_Hispanic | TotalN_ELA_Hispanic | %Tested_ELA_Caucasian | NTested_ELA_Caucasian | %notTest_ELA_Caucasian | NnotTest_ELA_Caucasian | TotalN_ELA_Caucasian | %Tested_ELA_English
+Learner | NTested_ELA_English
+Learner | %notTest_ELA_English
+Learner | NnotTest_ELA_English
+Learner | TotalN_ELA_English
+Learner | %Tested_ELA_Disabled | NTested_ELA_Disabled | %notTest_ELA_Disabled | NnotTest_ELA_Disabled | TotalN_ELA_Disabled | %Tested_ELA_Not
+Disabled | NTested_ELA_Not
+Disabled | %notTest_ELA_Not
+Disabled | NnotTest_ELA_Not
+Disabled | TotalN_ELA_Not
+Disabled | %Tested_ELA_Econ
+Disadvantaged | NTested_ELA_Econ
+Disadvantaged | %notTest_ELA_Econ
+Disadvantaged | NnotTest_ELA_Econ
+Disadvantaged | TotalN_ELA_Econ
+Disadvantaged | %Tested_ELA_NonEcon
+Disadvant | NTested_ELA_NonEcon
+Disadvant | %notTest_ELA_NonEcon
+Disadvant | NnotTest_ELA_NonEcon
+Disadvant | TotalN_ELA_NonEcon
+Disadvant | %Tested_ELA_Male | NTested_ELA_Male | %notTest_ELA_Male | NnotTest_ELA_Male | TotalN_ELA_Male | %Tested_ELA_Female | NTested_ELA_Female | %notTest_ELA_Female | NnotTest_ELA_Female | TotalN_ELA_Female | %Tested_ELA_Migrant | NTested_ELA_Migrant | %notTest_ELA_Migrant | NnotTest_ELA_Migrant | TotalN_ELA_Migrant | %Tested_ELA_Military
+Connected | NTested_ELA_Military
+Connected | %notTest_ELA_Military
+Connected | NnotTest_ELA_Military
+Connected | TotalN_ELA_Military
+Connected | %Tested_ELA_Foster | NTested_ELA_Foster | %notTest_ELA_Foster | NnotTest_ELA_Foster | TotalN_ELA_Foster | %Tested_ELA_Homeless | NTested_ELA_Homeless | %notTest_ELA_Homeless | NnotTest_ELA_Homeless | TotalN_ELA_Homeless | %Tested_MATH
+STUDENTS | NTested_MATH
+STUDENTS | %notTest_MATH
+STUDENTS | NnotTest_MATH
+STUDENTS | TotalN_MATH
+STUDENTS | %Tested_MATH_African
+American | NTested_MATH_African
+American | %notTest_MATH_African
+American | NnotTest_MATH_African
+American | TotalN_MATH_African
+American | %Tested_MATH_Asian
+PacIsl | NTested_MATH_Asian
+PacIsl | %notTest_MATH_Asian
+PacIsl | NnotTest_MATH_Asian
+PacIsl | TotalN_MATH_Asian
+PacIsl | %Tested_MATH_American
+Indian | NTested_MATH_American
+Indian | %notTest_MATH_American
+Indian | NnotTest_MATH_American
+Indian | TotalN_MATH_American
+Indian | %Tested_MATH_Hispanic | NTested_MATH_Hispanic | %notTest_MATH_Hispanic | NnotTest_MATH_Hispanic | TotalN_MATH_Hispanic | %Tested_MATH_Caucasian | NTested_MATH_Caucasian | %notTest_MATH_Caucasian | NnotTest_MATH_Caucasian | TotalN_MATH_Caucasian | %Tested_MATH_English
+Learner | NTested_MATH_English
+Learner | %notTest_MATH_English
+Learner | NnotTest_MATH_English
+Learner | TotalN_MATH_English
+Learner | %Tested_MATH_Disabled | NTested_MATH_Disabled | %notTest_MATH_Disabled | NnotTest_MATH_Disabled | TotalN_MATH_Disabled | %Tested_MATH_Not
+Disabled | NTested_MATH_Not
+Disabled | %notTest_MATH_Not
+Disabled | NnotTest_MATH_Not
+Disabled | TotalN_MATH_Not
+Disabled | %Tested_MATH_Econ
+Disadvantaged | NTested_MATH_Econ
+Disadvantaged | %notTest_MATH_Econ
+Disadvantaged | NnotTest_MATH_Econ
+Disadvantaged | TotalN_MATH_Econ
+Disadvantaged | %Tested_MATH_NonEcon
+Disadvant | NTested_MATH_NonEcon
+Disadvant | %notTest_MATH_NonEcon
+Disadvant | NnotTest_MATH_NonEcon
+Disadvant | TotalN_MATH_NonEcon
+Disadvant | %Tested_MATH_Male | NTested_MATH_Male | %notTest_MATH_Male | NnotTest_MATH_Male | TotalN_MATH_Male | %Tested_MATH_Female | NTested_MATH_Female | %notTest_MATH_Female | NnotTest_MATH_Female | TotalN_MATH_Female | %Tested_MATH_Migrant | NTested_MATH_Migrant | %notTest_MATH_Migrant | NnotTest_MATH_Migrant | TotalN_MATH_Migrant | %Tested_MATH_Military
+Connected | NTested_MATH_Military
+Connected | %notTest_MATH_Military
+Connected | NnotTest_MATH_Military
+Connected | TotalN_MATH_Military
+Connected | %Tested_MATH_Foster | NTested_MATH_Foster | %notTest_MATH_Foster | NnotTest_MATH_Foster | TotalN_MATH_Foster | %Tested_MATH_Homeless | NTested_MATH_Homeless | %notTest_MATH_Homeless | NnotTest_MATH_Homeless | TotalN_MATH_Homeless | %Tested_SCI
+STUDENTS | NTested_SCI
+STUDENTS | %notTest_SCI
+STUDENTS | NnotTest_SCInot
+STUDENTS | TotalN_SCI
+STUDENTS | %Tested_SCI_African
+American | NTested_SCI_African
+American | %notTest_SCI_African
+American | NnotTest_SCI_African
+American | TotalN_SCI_African
+American | %Tested_SCI_Asian
+PacIsl | NTested_SCI_Asian
+PacIsl | %notTest_SCI_Asian
+PacIsl | NnotTest_SCI_Asian
+PacIsl | TotalN_SCI_Asian
+PacIsl | %Tested_SCI_American
+Indian | NTested_SCI_American
+Indian | %notTest_SCI_American
+Indian | NnotTest_SCI_American
+Indian | TotalN_SCI_American
+Indian | %Tested_SCI_Hispanic | NTested_SCI_Hispanic | %notTest_SCI_Hispanic | NnotTest_SCI_Hispanic | TotalN_SCI_Hispanic | %Tested_SCI_Caucasian | NTested_SCI_Caucasian | %notTest_SCI_Caucasian | NnotTest_SCI_Caucasian | TotalN_SCI_Caucasian | %Tested_SCI_English
+Learner | NTested_SCI_English
+Learner | %notTest_SCI_English
+Learner | NnotTest_SCI_English
+Learner | TotalN_SCI_English
+Learner | %Tested_SCI_Disabled | NTested_SCI_Disabled | %notTest_SCI_Disabled | NnotTest_SCI_Disabled | TotalN_SCI_Disabled | %Tested_SCI_Not
+Disabled | NTested_SCI_Not
+Disabled | %notTest_SCI_Not
+Disabled | NnotTest_SCI_Not
+Disabled | TotalN_SCI_Not
+Disabled | %Tested_SCI_Econ
+Disadvantaged | NTested_SCI_Econ
+Disadvantaged | %notTest_SCI_Econ
+Disadvantaged | NnotTest_SCI_Econ
+Disadvantaged | TotalN_SCI_Econ
+Disadvantaged | %Tested_SCI_NonEcon
+Disadvant | NTested_SCI_NonEcon
+Disadvant | %notTest_SCI_NonEcon
+Disadvant | NnotTest_SCI_NonEcon
+Disadvant | TotalN_SCI_NonEcon
+Disadvant | %Tested_SCI_Male | NTested_SCI_Male | %notTest_SCI_Male | NnotTest_SCI_Male | TotalN_SCI_Male | %Tested_SCI_Female | NTested_SCI_Female | %notTest_SCI_Female | NnotTest_SCI_Female | TotalN_SCI_Female | %Tested_SCI_Migrant | NTested_SCI_Migrant | %notTest_SCI_Migrant | NnotTest_SCI_Migrant | TotalN_SCI_Migrant | %Tested_SCI_Military
+Connected | NTested_SCI_Military
+Connected | %notTest_SCI_Military
+Connected | NnotTest_SCI_Military
+Connected | TotalN_SCI_Military
+Connected | %Tested_SCI_Foster | NTested_SCI_Foster | %notTest_SCI_Foster | NnotTest_SCI_Foster | TotalN_SCI_Foster | %Tested_SCI_Homeless | NTested_SCI_Homeless | %notTest_SCI_Homeless | NnotTest_SCI_Homeless | TotalN_SCI_Homeless"
+data/report_cards/ReportCardData_forResearchers2024_11.xlsx,2e.ALT_Participation_bySubj,5,"ReportCardYear | DistrictNm | SchoolNm | SCHOOLID | SCHOOLTYPECD | %Tested_ALT
+STUDENTS | NTested_ALT
+STUDENTS | TotalN_ALT
+and
+NON-ALT
+STUDENTS | %Tested_ALT
+ELA
+STUDENTS | NTested_ALT
+ELA
+STUDENTS | TotN_ALTandNON-ALT
+ELA STUDENTS | %Tested_ALT
+MATH
+STUDENTS | NTested_ALT
+MATH
+STUDENTS | TotN_ALTandNON-ALT
+MATH STUDENTS | %Tested_ALT
+SCI
+STUDENTS | NTested_ALT
+SCI
+STUDENTS | TotN_ALTandNON-ALT
+SCI STUDENTS"
+data/report_cards/ReportCardData_forResearchers2024_11.xlsx,3.Gradrate,5,ReportCardYear | DistrictNm | SchoolNm | SCHOOLID | SCHOOLTYPECD | GRADRATE24 | GRADRATE23 | GRADRATE22 | GRADRATE21
+data/report_cards/ReportCardData_forResearchers2024_11.xlsx,4.CollegeCareer,5,ReportCardYear | DistrictNm | SchoolNm | SCHOOLID | SCHOOLTYPECD | PctCollege | NumCollege | PctCareer | NumCareer | PctCollORCareer | NumCollORCareer | PctCollANDCareer | NumCollANDCareer | NumInCohort | PctACT | NumACT | PctSAT | NumSAT | PctAP | NumAP | PctIB | NumIB | PctCamb | NumCamb | PctDual | NumDual | PctCTE | NumCTE | PctWBL | NumWBL | PctCarRdy | NumCarRdy | PctASVAB | NumASVAB | PctCred | NumCred
+data/report_cards/ReportCardData_forResearchers2024_11.xlsx,5.MultilingualLearners,5,ReportCardYear | DistrictNm | SchoolNm | SCHOOLID | SchoolTypeCd | PctMetProg | NumMetProg | NumProgCalc | PctMetProf | NumMetProf | NumAssessed | NumMLSubgroup | SPAN | distcode | bedscode | recordtype | LEPcount | nmetprof | percentmetprof | Assessedcount | denominator | nmetgoal | percentmetgoal | rating
+data/report_cards/ReportCardData_forResearchers2024_11.xlsx,6.StudentProgress,5,ReportCardYear | DistrictNm | SchoolNm | SCHOOLID | SCHOOLTYPECD | PROGpctTOT | PROGpctALL | PROGpctL20
+data/report_cards/ReportCardData_forResearchers2024_11.xlsx,7.SchoolClimate,5,ReportCardYear | DISTRICT | SCHOOL | SCHOOLID | SCHOOLTYPECD | ClimateTOT | ClimTchInst | ClimTchWork | ClimTchSafe | ClimStuEnvi | ClimStuSafe | PctTchPartic | NumTchPartic | DenTchPartic | PctStuPartic | NumStuPartic | DenStuPartic | RATING
+data/report_cards/ReportCardData_forResearchers2024_11.xlsx,8.HS_Success,5,ReportCardYear | DISTRICT | SCHOOL | SCHOOLID | SCHOOLTYPECD | PCT_SUCCESS | NUM_SUCCESS | DEN_SUCCESS | PCT_ONTRACK | NUM_ONTRACK | DEN_ONTRACK | PCT_5YRGRAD | NUM_5YRGRAD | DEN_5YRGRAD
+data/report_cards/ReportCardData_forResearchers2025 5.xlsx,Cover Sheet,5,South Carolina Department of Education's Annual School and District Report Card System for South Carolina Public Schools and School Districts 2024-2025
+data/report_cards/ReportCardData_forResearchers2025 5.xlsx,REPORT_CARD_RATINGS,5,ReportCardYear | DistrictNm | SchoolNm | SCHOOLID | SCHOOLTYPECD | SPAN | POVERTYINDX | T1School | PARTICRATE | RATE_OVERALL | INDX_OVERALL | PCT_OVERALL | NUM_OVERALL | DEN_OVERALL | NUM_ACHIEVE | DEN_ACHIEVE | INDX_ACHIEVE | RATE_ACHIEVE | N_Achieve | NUM_PREPSUCCESS | DEN_PREPSUCCESS | INDX_PREPSUCCESS | RATE_PREPSUCCESS | N_PREP | NUM_PROGRESS | DEN_PROGRESS | INDX_PROGRESS | RATE_PROGRESS | N_PROGRESS | NUM_GRADRATE | DEN_GRADRATE | INDX_GRADRATE | RATE_GRADRATE | N_GRADRATE | NUM_CCR | DEN_CCR | INDX_CCR | RATE_CCR | N_CCR | NUM_SUCCESS | DEN_SUCCESS | INDX_SUCCESS | RATE_SUCCESS | N_SUCCESS | NUM_EL | DEN_EL | INDX_EL | RATE_EL | N_EL | NUM_CLIMATE | DEN_CLIMATE | INDX_CLIMATE | RATE_CLIMATE | N_ClimateStu | N_ClimateTch | ACHIEVE_ADJUST | PARTADJUST_ACHIEVE | PARTADJUST_OVERALL | OVERALLLT20 | PROGRESS_ADJUST | GRADRATE_ADJUST | MISSIND_EM | MISSem | MISSIND_H | MISSh | SMALLSCHOOL20 | ADM3to12 | ADM3to5 | ADM6to8 | ADM9to12
+data/report_cards/ReportCardData_forResearchers2025 5.xlsx,KEY,5,WORKSHEET | COLUMN | LABEL
+data/report_cards/ReportCardData_forResearchers2025 5.xlsx,1.MainPage,5,"ReportCardYear | DistrictNm | SchoolNm | SCHOOLID | Report Card
+Type
+(P,E,M,H,D) | street | city | state | zip | GRADESPAN | Enrollment | hdphone | URL | headname | supername | chair | TeacherCount"
+data/report_cards/ReportCardData_forResearchers2025 5.xlsx,2a.AchievPrepSuccessELEMMIDD,5,ReportCardYear | DistrictNm | SchoolNm | SCHOOLID | SCHOOLTYPECD | E_PctME | E_PctExceeding | E_PctReady | E_PctClose | E_PctInNeedOfSupport | E_PctNotTest | E_NbrME | E_NbrExceeding | E_NbrReady | E_NbrClose | E_NbrInNeedOfSupport | E_NbrNotTest | E_NbrTOT | M_PctME | M_PctExceeding | M_PctReady | M_PctClose | M_PctInNeedOfSupport | M_PctNotTest | M_NbrME | M_NbrExceeding | M_NbrReady | M_NbrClose | M_NbrInNeedOfSupport | M_NbrNotTest | M_NbrTOT | SC_PctME | SC_PctExceeding | SC_PctReady | SC_PctClose | SC_PctInNeedOfSupport | SC_PctNotTest | SC_NbrME | SC_NbrExceeding | SC_NbrReady | SC_NbrClose | SC_NbrInNeedOfSupport | SC_NbrNotTest | SC_NbrTOT | Eg3_PctME | Eg3_PctExceeding | Eg3_PctReady | Eg3_PctClose | Eg3_PctInNeedOfSupport | Eg3_NbrME | Eg3_NbrExceeding | Eg3_NbrReady | Eg3_NbrClose | Eg3_NbrInNeedOfSupport | Eg3_NbrTOT | Eg4_PctME | Eg4_PctExceeding | Eg4_PctReady | Eg4_PctClose | Eg4_PctInNeedOfSupport | Eg4_NbrME | Eg4_NbrExceeding | Eg4_NbrReady | Eg4_NbrClose | Eg4_NbrInNeedOfSupport | Eg4_NbrTOT | Eg5_PctME | Eg5_PctExceeding | Eg5_PctReady | Eg5_PctClose | Eg5_PctInNeedOfSupport | Eg5_NbrME | Eg5_NbrExceeding | Eg5_NbrReady | Eg5_NbrClose | Eg5_NbrInNeedOfSupport | Eg5_NbrTOT | Eg6_PctME | Eg6_PctExceeding | Eg6_PctReady | Eg6_PctClose | Eg6_PctInNeedOfSupport | Eg6_NbrME | Eg6_NbrExceeding | Eg6_NbrReady | Eg6_NbrClose | Eg6_NbrInNeedOfSupport | Eg6_NbrTOT | Eg7_PctME | Eg7_PctExceeding | Eg7_PctReady | Eg7_PctClose | Eg7_PctInNeedOfSupport | Eg7_NbrME | Eg7_NbrExceeding | Eg7_NbrReady | Eg7_NbrClose | Eg7_NbrInNeedOfSupport | Eg7_NbrTOT | Eg8_PctME | Eg8_PctExceeding | Eg8_PctReady | Eg8_PctClose | Eg8_PctInNeedOfSupport | Eg8_NbrME | Eg8_NbrExceeding | Eg8_NbrReady | Eg8_NbrClose | Eg8_NbrInNeedOfSupport | Eg8_NbrTOT | Mg3_PctME | Mg3_PctExceeding | Mg3_PctReady | Mg3_PctClose | Mg3_PctInNeedOfSupport | Mg3_NbrME | Mg3_NbrExceeding | Mg3_NbrReady | Mg3_NbrClose | Mg3_NbrInNeedOfSupport | Mg3_NbrTOT | Mg4_PctME | Mg4_PctExceeding | Mg4_PctReady | Mg4_PctClose | Mg4_PctInNeedOfSupport | Mg4_NbrME | Mg4_NbrExceeding | Mg4_NbrReady | Mg4_NbrClose | Mg4_NbrInNeedOfSupport | Mg4_NbrTOT | Mg5_PctME | Mg5_PctExceeding | Mg5_PctReady | Mg5_PctClose | Mg5_PctInNeedOfSupport | Mg5_NbrME | Mg5_NbrExceeding | Mg5_NbrReady | Mg5_NbrClose | Mg5_NbrInNeedOfSupport | Mg5_NbrTOT | Mg6_PctME | Mg6_PctExceeding | Mg6_PctReady | Mg6_PctClose | Mg6_PctInNeedOfSupport | Mg6_NbrME | Mg6_NbrExceeding | Mg6_NbrReady | Mg6_NbrClose | Mg6_NbrInNeedOfSupport | Mg6_NbrTOT | Mg7_PctME | Mg7_PctExceeding | Mg7_PctReady | Mg7_PctClose | Mg7_PctInNeedOfSupport | Mg7_NbrME | Mg7_NbrExceeding | Mg7_NbrReady | Mg7_NbrClose | Mg7_NbrInNeedOfSupport | Mg7_NbrTOT | Mg8_PctME | Mg8_PctExceeding | Mg8_PctReady | Mg8_PctClose | Mg8_PctInNeedOfSupport | Mg8_NbrME | Mg8_NbrExceeding | Mg8_NbrReady | Mg8_NbrClose | Mg8_NbrInNeedOfSupport | Mg8_NbrTOT | SCg4_PctME | SCg4_NbrME | SCg6_PctME | SCg6_NbrME
+data/report_cards/ReportCardData_forResearchers2025 5.xlsx,2b.AchievPrepSuccessHIGH,5,ReportCardYear | DistrictNm | SchoolNm | SCHOOLID | SCHOOLTYPECD | E_PctABC | E_PctA | E_PctB | E_PctC | E_PctD | E_PctF | E_PctNT | E_NbrA | E_NbrB | E_NbrC | E_NbrD | E_NbrF | E_NbrNT | E_NbrABC | E_NbrTOT | M_PctABC | M_PctA | M_PctB | M_PctC | M_PctD | M_PctF | M_PctNT | M_NbrA | M_NbrB | M_NbrC | M_NbrD | M_NbrF | M_NbrNT | M_NbrABC | M_NbrTOT | SC_PctABC | SC_PctA | SC_PctB | SC_PctC | SC_PctD | SC_PctF | SC_PctNT | SC_NbrA | SC_NbrB | SC_NbrC | SC_NbrD | SC_NbrF | SC_NbrNT | SC_NbrABC | SC_NbrTOT | H_PctABC | H_PctA | H_PctB | H_PctC | H_PctD | H_PctF | H_Pctnt | H_NbrA | H_NbrB | H_NbrC | H_NbrD | H_NbrF | H_NbrNT | H_NbrABC | H_NbrTOT
+data/report_cards/ReportCardData_forResearchers2025 5.xlsx,2c.Participation,5,"ReportCardYear | DistrictNm | SchoolNm | SCHOOLID | SCHOOLTYPECD | %Tested_ALL
+STUDENTS | NTested_ALL
+STUDENTS | TotalN_ALL
+STUDENTS | %Tested_African
+American | NTested_African
+American | TotalN_African
+American | %Tested_Asian
+Pacific Islander | NTested_Asian
+Pacific Islander | TotalN_Asian
+Pacific
+Islander | %Tested_American
+Indian | NTested_American
+Indian | TotalN_American
+Indian | %Tested_Hispanic | NTested_Hispanic | TotalN_Hispanic | %Tested_Caucasian | NTested_Caucasian | TotalN_Caucasian | %Tested_English
+Learner | NTested_English
+Learner | TotalN_English
+Learner | %Tested_Disabled | NTested_Disabled | TotalN_Disabled | %Tested_Not
+Disabled | NTested_Not
+Disabled | TotalN_Not
+Disabled | %Tested_Econ
+Disadvantaged | NTested_Econ
+Disadvantaged | TotalN_Econ
+Disadvantaged | %Tested_NonEcon
+Disadvantaged | NTested_NonEcon
+Disadvantaged | TotalN_NonEcon
+Disadvantaged | %Tested_Male | NTested_Male | TotalN_Male | %Tested_Female | NTested_Female | TotalN_Female | %Tested_Migrant | NTested_Migrant | TotalN_Migrant | %Tested_Military
+Connected | NTested_Military
+Connected | TotalN_Military
+Connected | %Tested_Foster | NTested_Foster | TotalN_Foster | %Tested_Homeless | NTested_Homeless | TotalN_Homeless"
+data/report_cards/ReportCardData_forResearchers2025 5.xlsx,2d.Participation_bySubject,5,"ReportCardYear | DistrictNm | SchoolNm | SCHOOLID | SCHOOLTYPECD | %Tested_ELA
+STUDENTS | NTested_ELA
+STUDENTS | %notTest_ELA
+STUDENTS | NnotTest_ELA
+STUDENTS | TotalN_ELA
+STUDENTS | %Tested_ELA_African
+American | NTested_ELA_African
+American | %notTest_ELA_African
+American | NnotTest_ELA_African
+American | TotalN_ELA_African
+American | %Tested_ELA_Asian
+PacIsl | NTested_ELA_Asian
+PacIsl | %notTest_ELA_Asian
+PacIsl | NnotTest_ELA_Asian
+PacIsl | TotalN_ELA_Asian
+PacIsl | %Tested_ELA_American
+Indian | NTested_ELA_American
+Indian | %notTest_ELA_American
+Indian | NnotTest_ELA_American
+Indian | TotalN_ELA_American
+Indian | %Tested_ELA_Hispanic | NTested_ELA_Hispanic | %notTest_ELA_Hispanic | NnotTest_ELA_Hispanic | TotalN_ELA_Hispanic | %Tested_ELA_Caucasian | NTested_ELA_Caucasian | %notTest_ELA_Caucasian | NnotTest_ELA_Caucasian | TotalN_ELA_Caucasian | %Tested_ELA_English
+Learner | NTested_ELA_English
+Learner | %notTest_ELA_English
+Learner | NnotTest_ELA_English
+Learner | TotalN_ELA_English
+Learner | %Tested_ELA_Disabled | NTested_ELA_Disabled | %notTest_ELA_Disabled | NnotTest_ELA_Disabled | TotalN_ELA_Disabled | %Tested_ELA_Not
+Disabled | NTested_ELA_Not
+Disabled | %notTest_ELA_Not
+Disabled | NnotTest_ELA_Not
+Disabled | TotalN_ELA_Not
+Disabled | %Tested_ELA_Econ
+Disadvantaged | NTested_ELA_Econ
+Disadvantaged | %notTest_ELA_Econ
+Disadvantaged | NnotTest_ELA_Econ
+Disadvantaged | TotalN_ELA_Econ
+Disadvantaged | %Tested_ELA_NonEcon
+Disadvant | NTested_ELA_NonEcon
+Disadvant | %notTest_ELA_NonEcon
+Disadvant | NnotTest_ELA_NonEcon
+Disadvant | TotalN_ELA_NonEcon
+Disadvant | %Tested_ELA_Male | NTested_ELA_Male | %notTest_ELA_Male | NnotTest_ELA_Male | TotalN_ELA_Male | %Tested_ELA_Female | NTested_ELA_Female | %notTest_ELA_Female | NnotTest_ELA_Female | TotalN_ELA_Female | %Tested_ELA_Migrant | NTested_ELA_Migrant | %notTest_ELA_Migrant | NnotTest_ELA_Migrant | TotalN_ELA_Migrant | %Tested_ELA_Military
+Connected | NTested_ELA_Military
+Connected | %notTest_ELA_Military
+Connected | NnotTest_ELA_Military
+Connected | TotalN_ELA_Military
+Connected | %Tested_ELA_Foster | NTested_ELA_Foster | %notTest_ELA_Foster | NnotTest_ELA_Foster | TotalN_ELA_Foster | %Tested_ELA_Homeless | NTested_ELA_Homeless | %notTest_ELA_Homeless | NnotTest_ELA_Homeless | TotalN_ELA_Homeless | %Tested_MATH
+STUDENTS | NTested_MATH
+STUDENTS | %notTest_MATH
+STUDENTS | NnotTest_MATH
+STUDENTS | TotalN_MATH
+STUDENTS | %Tested_MATH_African
+American | NTested_MATH_African
+American | %notTest_MATH_African
+American | NnotTest_MATH_African
+American | TotalN_MATH_African
+American | %Tested_MATH_Asian
+PacIsl | NTested_MATH_Asian
+PacIsl | %notTest_MATH_Asian
+PacIsl | NnotTest_MATH_Asian
+PacIsl | TotalN_MATH_Asian
+PacIsl | %Tested_MATH_American
+Indian | NTested_MATH_American
+Indian | %notTest_MATH_American
+Indian | NnotTest_MATH_American
+Indian | TotalN_MATH_American
+Indian | %Tested_MATH_Hispanic | NTested_MATH_Hispanic | %notTest_MATH_Hispanic | NnotTest_MATH_Hispanic | TotalN_MATH_Hispanic | %Tested_MATH_Caucasian | NTested_MATH_Caucasian | %notTest_MATH_Caucasian | NnotTest_MATH_Caucasian | TotalN_MATH_Caucasian | %Tested_MATH_English
+Learner | NTested_MATH_English
+Learner | %notTest_MATH_English
+Learner | NnotTest_MATH_English
+Learner | TotalN_MATH_English
+Learner | %Tested_MATH_Disabled | NTested_MATH_Disabled | %notTest_MATH_Disabled | NnotTest_MATH_Disabled | TotalN_MATH_Disabled | %Tested_MATH_Not
+Disabled | NTested_MATH_Not
+Disabled | %notTest_MATH_Not
+Disabled | NnotTest_MATH_Not
+Disabled | TotalN_MATH_Not
+Disabled | %Tested_MATH_Econ
+Disadvantaged | NTested_MATH_Econ
+Disadvantaged | %notTest_MATH_Econ
+Disadvantaged | NnotTest_MATH_Econ
+Disadvantaged | TotalN_MATH_Econ
+Disadvantaged | %Tested_MATH_NonEcon
+Disadvant | NTested_MATH_NonEcon
+Disadvant | %notTest_MATH_NonEcon
+Disadvant | NnotTest_MATH_NonEcon
+Disadvant | TotalN_MATH_NonEcon
+Disadvant | %Tested_MATH_Male | NTested_MATH_Male | %notTest_MATH_Male | NnotTest_MATH_Male | TotalN_MATH_Male | %Tested_MATH_Female | NTested_MATH_Female | %notTest_MATH_Female | NnotTest_MATH_Female | TotalN_MATH_Female | %Tested_MATH_Migrant | NTested_MATH_Migrant | %notTest_MATH_Migrant | NnotTest_MATH_Migrant | TotalN_MATH_Migrant | %Tested_MATH_Military
+Connected | NTested_MATH_Military
+Connected | %notTest_MATH_Military
+Connected | NnotTest_MATH_Military
+Connected | TotalN_MATH_Military
+Connected | %Tested_MATH_Foster | NTested_MATH_Foster | %notTest_MATH_Foster | NnotTest_MATH_Foster | TotalN_MATH_Foster | %Tested_MATH_Homeless | NTested_MATH_Homeless | %notTest_MATH_Homeless | NnotTest_MATH_Homeless | TotalN_MATH_Homeless | %Tested_SCI
+STUDENTS | NTested_SCI
+STUDENTS | %notTest_SCI
+STUDENTS | NnotTest_SCInot
+STUDENTS | TotalN_SCI
+STUDENTS | %Tested_SCI_African
+American | NTested_SCI_African
+American | %notTest_SCI_African
+American | NnotTest_SCI_African
+American | TotalN_SCI_African
+American | %Tested_SCI_Asian
+PacIsl | NTested_SCI_Asian
+PacIsl | %notTest_SCI_Asian
+PacIsl | NnotTest_SCI_Asian
+PacIsl | TotalN_SCI_Asian
+PacIsl | %Tested_SCI_American
+Indian | NTested_SCI_American
+Indian | %notTest_SCI_American
+Indian | NnotTest_SCI_American
+Indian | TotalN_SCI_American
+Indian | %Tested_SCI_Hispanic | NTested_SCI_Hispanic | %notTest_SCI_Hispanic | NnotTest_SCI_Hispanic | TotalN_SCI_Hispanic | %Tested_SCI_Caucasian | NTested_SCI_Caucasian | %notTest_SCI_Caucasian | NnotTest_SCI_Caucasian | TotalN_SCI_Caucasian | %Tested_SCI_English
+Learner | NTested_SCI_English
+Learner | %notTest_SCI_English
+Learner | NnotTest_SCI_English
+Learner | TotalN_SCI_English
+Learner | %Tested_SCI_Disabled | NTested_SCI_Disabled | %notTest_SCI_Disabled | NnotTest_SCI_Disabled | TotalN_SCI_Disabled | %Tested_SCI_Not
+Disabled | NTested_SCI_Not
+Disabled | %notTest_SCI_Not
+Disabled | NnotTest_SCI_Not
+Disabled | TotalN_SCI_Not
+Disabled | %Tested_SCI_Econ
+Disadvantaged | NTested_SCI_Econ
+Disadvantaged | %notTest_SCI_Econ
+Disadvantaged | NnotTest_SCI_Econ
+Disadvantaged | TotalN_SCI_Econ
+Disadvantaged | %Tested_SCI_NonEcon
+Disadvant | NTested_SCI_NonEcon
+Disadvant | %notTest_SCI_NonEcon
+Disadvant | NnotTest_SCI_NonEcon
+Disadvant | TotalN_SCI_NonEcon
+Disadvant | %Tested_SCI_Male | NTested_SCI_Male | %notTest_SCI_Male | NnotTest_SCI_Male | TotalN_SCI_Male | %Tested_SCI_Female | NTested_SCI_Female | %notTest_SCI_Female | NnotTest_SCI_Female | TotalN_SCI_Female | %Tested_SCI_Migrant | NTested_SCI_Migrant | %notTest_SCI_Migrant | NnotTest_SCI_Migrant | TotalN_SCI_Migrant | %Tested_SCI_Military
+Connected | NTested_SCI_Military
+Connected | %notTest_SCI_Military
+Connected | NnotTest_SCI_Military
+Connected | TotalN_SCI_Military
+Connected | %Tested_SCI_Foster | NTested_SCI_Foster | %notTest_SCI_Foster | NnotTest_SCI_Foster | TotalN_SCI_Foster | %Tested_SCI_Homeless | NTested_SCI_Homeless | %notTest_SCI_Homeless | NnotTest_SCI_Homeless | TotalN_SCI_Homeless"
+data/report_cards/ReportCardData_forResearchers2025 5.xlsx,2e.ALT_Participation_bySubj,5,"ReportCardYear | DistrictNm | SchoolNm | SCHOOLID | SCHOOLTYPECD | %Tested_ALT
+STUDENTS | NTested_ALT
+STUDENTS | TotalN_ALT
+and
+NON-ALT
+STUDENTS | %Tested_ALT
+ELA
+STUDENTS | NTested_ALT
+ELA
+STUDENTS | TotN_ALTandNON-ALT
+ELA STUDENTS | %Tested_ALT
+MATH
+STUDENTS | NTested_ALT
+MATH
+STUDENTS | TotN_ALTandNON-ALT
+MATH STUDENTS | %Tested_ALT
+SCI
+STUDENTS | NTested_ALT
+SCI
+STUDENTS | TotN_ALTandNON-ALT
+SCI STUDENTS"
+data/report_cards/ReportCardData_forResearchers2025 5.xlsx,3.Gradrate,5,ReportCardYear | DistrictNm | SchoolNm | SCHOOLID | SCHOOLTYPECD | GRADRATE25 | GRADRATE24 | GRADRATE23 | GRADRATE22
+data/report_cards/ReportCardData_forResearchers2025 5.xlsx,4.CollegeCareer,5,ReportCardYear | DistrictNm | SchoolNm | SCHOOLID | SCHOOLTYPECD | PctCollege | NumCollege | PctCareer | NumCareer | PctCollORCareer | NumCollORCareer | PctCollANDCareer | NumCollANDCareer | NumInCohort | PctACT | NumACT | PctSAT | NumSAT | PctAP | NumAP | PctIB | NumIB | PctCamb | NumCamb | PctDual | NumDual | PctCTE | NumCTE | PctWBL | NumWBL | PctCarRdy | NumCarRdy | PctASVAB | NumASVAB | PctCred | NumCred
+data/report_cards/ReportCardData_forResearchers2025 5.xlsx,5.MultilingualLearners,5,ReportCardYear | DistrictNm | SchoolNm | SCHOOLID | SchoolTypeCd | PctMetProg | NumMetProg | NumProgCalc | PctMetProf | NumMetProf | NumAssessed | NumMLLSubgroup
+data/report_cards/ReportCardData_forResearchers2025 5.xlsx,6.StudentProgress,5,ReportCardYear | DistrictNm | SchoolNm | SCHOOLID | SCHOOLTYPECD | PROGpctTOT | PROGpctALL | PROGpctL20
+data/report_cards/ReportCardData_forResearchers2025 5.xlsx,7.SchoolClimate,5,ReportCardYear | DISTRICT | SCHOOL | SCHOOLID | SCHOOLTYPECD | ClimateTOT | ClimTchInst | ClimTchWork | ClimTchSafe | ClimStuEnvi | ClimStuSafe | PctTchPartic | NumTchPartic | DenTchPartic | PctStuPartic | NumStuPartic | DenStuPartic | RATING
+data/report_cards/ReportCardData_forResearchers2025 5.xlsx,8.HS_Success,5,ReportCardYear | DISTRICT | SCHOOL | SCHOOLID | SCHOOLTYPECD | PCT_SUCCESS | NUM_SUCCESS | DEN_SUCCESS | PCT_ONTRACKy1 | NUM_ONTRACKy1 | DEN_ONTRACKy1 | PCT_ONTRACKy2 | NUM_ONTRACKy2 | DEN_ONTRACKy2 | PCT_ONTRACKy3 | NUM_ONTRACKy3 | DEN_ONTRACKy3 | PCT_5YRGRAD | NUM_5YRGRAD | DEN_5YRGRAD
+data/report_cards/ReportCardData_forResearchers2026.XLSx,KEY,5,WORKSHEET | COLUMN | LABEL
+data/report_cards/ReportCardData_forResearchers2026.XLSx,REPORT_CARD_RATINGS,5,ReportCardYear | DistrictNm | SchoolNm | SCHOOLID | SCHOOLTYPECD | SPAN | POVERTYINDX | T1School | PARTICRATE | RATE_OVERALL | INDX_OVERALL | PCT_OVERALL | NUM_OVERALL | DEN_OVERALL | NUM_ACHIEVE | DEN_ACHIEVE | INDX_ACHIEVE | RATE_ACHIEVE | N_Achieve | NUM_PREPSUCCESS | DEN_PREPSUCCESS | INDX_PREPSUCCESS | RATE_PREPSUCCESS | N_PREP | NUM_PROGRESS | DEN_PROGRESS | INDX_PROGRESS | RATE_PROGRESS | N_PROGRESS | NUM_GRADRATE | DEN_GRADRATE | INDX_GRADRATE | RATE_GRADRATE | N_GRADRATE | NUM_CCR | DEN_CCR | INDX_CCR | RATE_CCR | N_CCR | NUM_SUCCESS | DEN_SUCCESS | INDX_SUCCESS | RATE_SUCCESS | N_SUCCESS | NUM_EL | DEN_EL | INDX_EL | RATE_EL | N_EL | NUM_CLIMATE | DEN_CLIMATE | INDX_CLIMATE | RATE_CLIMATE | N_ClimateStu | N_ClimateTch | ACHIEVE_ADJUST | PARTADJUST_ACHIEVE | PARTADJUST_OVERALL | OVERALLLT20 | PROGRESS_ADJUST | GRADRATE_ADJUST | MISSIND_EM | MISSem | MISSIND_H | MISSh | SMALLSCHOOL20 | ADM3to12 | ADM3to5 | ADM6to8 | ADM9to12
+data/report_cards/ReportCardData_forResearchers2026.XLSx,1.MainPage,5,ReportCardYear | DistrictNm | SchoolNm | SCHOOLID | SCHOOLTYPECD | street | city | state | zip | GRADESPAN | Enrollment | hdphone | URL | headname | supername | chair | TeacherCount
+data/report_cards/ReportCardData_forResearchers2026.XLSx,2a.AchievPrepSuccessELEMMIDD,5,ReportCardYear | DistrictNm | SchoolNm | SCHOOLID | SCHOOLTYPECD | E_PctME | E_PctExceeding | E_PctReady | E_PctClose | E_PctInNeedOfSupport | E_PctNotTest | E_NbrME | E_NbrExceeding | E_NbrReady | E_NbrClose | E_NbrInNeedOfSupport | E_NbrNotTest | E_NbrTOT | M_PctME | M_PctExceeding | M_PctReady | M_PctClose | M_PctInNeedOfSupport | M_PctNotTest | M_NbrME | M_NbrExceeding | M_NbrReady | M_NbrClose | M_NbrInNeedOfSupport | M_NbrNotTest | M_NbrTOT | SC_PctME | SC_PctExceeding | SC_PctReady | SC_PctClose | SC_PctInNeedOfSupport | SC_PctNotTest | SC_NbrME | SC_NbrExceeding | SC_NbrReady | SC_NbrClose | SC_NbrInNeedOfSupport | SC_NbrNotTest | SC_NbrTOT | Eg3_PctME | Eg3_PctExceeding | Eg3_PctReady | Eg3_PctClose | Eg3_PctInNeedOfSupport | Eg3_NbrME | Eg3_NbrExceeding | Eg3_NbrReady | Eg3_NbrClose | Eg3_NbrInNeedOfSupport | Eg3_NbrTOT | Eg4_PctME | Eg4_PctExceeding | Eg4_PctReady | Eg4_PctClose | Eg4_PctInNeedOfSupport | Eg4_NbrME | Eg4_NbrExceeding | Eg4_NbrReady | Eg4_NbrClose | Eg4_NbrInNeedOfSupport | Eg4_NbrTOT | Eg5_PctME | Eg5_PctExceeding | Eg5_PctReady | Eg5_PctClose | Eg5_PctInNeedOfSupport | Eg5_NbrME | Eg5_NbrExceeding | Eg5_NbrReady | Eg5_NbrClose | Eg5_NbrInNeedOfSupport | Eg5_NbrTOT | Eg6_PctME | Eg6_PctExceeding | Eg6_PctReady | Eg6_PctClose | Eg6_PctInNeedOfSupport | Eg6_NbrME | Eg6_NbrExceeding | Eg6_NbrReady | Eg6_NbrClose | Eg6_NbrInNeedOfSupport | Eg6_NbrTOT | Eg7_PctME | Eg7_PctExceeding | Eg7_PctReady | Eg7_PctClose | Eg7_PctInNeedOfSupport | Eg7_NbrME | Eg7_NbrExceeding | Eg7_NbrReady | Eg7_NbrClose | Eg7_NbrInNeedOfSupport | Eg7_NbrTOT | Eg8_PctME | Eg8_PctExceeding | Eg8_PctReady | Eg8_PctClose | Eg8_PctInNeedOfSupport | Eg8_NbrME | Eg8_NbrExceeding | Eg8_NbrReady | Eg8_NbrClose | Eg8_NbrInNeedOfSupport | Eg8_NbrTOT | Mg3_PctME | Mg3_PctExceeding | Mg3_PctReady | Mg3_PctClose | Mg3_PctInNeedOfSupport | Mg3_NbrME | Mg3_NbrExceeding | Mg3_NbrReady | Mg3_NbrClose | Mg3_NbrInNeedOfSupport | Mg3_NbrTOT | Mg4_PctME | Mg4_PctExceeding | Mg4_PctReady | Mg4_PctClose | Mg4_PctInNeedOfSupport | Mg4_NbrME | Mg4_NbrExceeding | Mg4_NbrReady | Mg4_NbrClose | Mg4_NbrInNeedOfSupport | Mg4_NbrTOT | Mg5_PctME | Mg5_PctExceeding | Mg5_PctReady | Mg5_PctClose | Mg5_PctInNeedOfSupport | Mg5_NbrME | Mg5_NbrExceeding | Mg5_NbrReady | Mg5_NbrClose | Mg5_NbrInNeedOfSupport | Mg5_NbrTOT | Mg6_PctME | Mg6_PctExceeding | Mg6_PctReady | Mg6_PctClose | Mg6_PctInNeedOfSupport | Mg6_NbrME | Mg6_NbrExceeding | Mg6_NbrReady | Mg6_NbrClose | Mg6_NbrInNeedOfSupport | Mg6_NbrTOT | Mg7_PctME | Mg7_PctExceeding | Mg7_PctReady | Mg7_PctClose | Mg7_PctInNeedOfSupport | Mg7_NbrME | Mg7_NbrExceeding | Mg7_NbrReady | Mg7_NbrClose | Mg7_NbrInNeedOfSupport | Mg7_NbrTOT | Mg8_PctME | Mg8_PctExceeding | Mg8_PctReady | Mg8_PctClose | Mg8_PctInNeedOfSupport | Mg8_NbrME | Mg8_NbrExceeding | Mg8_NbrReady | Mg8_NbrClose | Mg8_NbrInNeedOfSupport | Mg8_NbrTOT | SCg4_PctME | SCg4_NbrME | SCg6_PctME | SCg6_NbrME
+data/report_cards/ReportCardData_forResearchers2026.XLSx,2b.AchievPrepSuccessHIGH,5,ReportCardYear | DistrictNm | SchoolNm | SCHOOLID | SCHOOLTYPECD | E_PctABC | E_PctA | E_PctB | E_PctC | E_PctD | E_PctF | E_PctNT | E_NbrA | E_NbrB | E_NbrC | E_NbrD | E_NbrF | E_NbrNT | E_NbrABC | E_NbrTOT | M_PctABC | M_PctA | M_PctB | M_PctC | M_PctD | M_PctF | M_PctNT | M_NbrA | M_NbrB | M_NbrC | M_NbrD | M_NbrF | M_NbrNT | M_NbrABC | M_NbrTOT | SC_PctABC | SC_PctA | SC_PctB | SC_PctC | SC_PctD | SC_PctF | SC_PctNT | SC_NbrA | SC_NbrB | SC_NbrC | SC_NbrD | SC_NbrF | SC_NbrNT | SC_NbrABC | SC_NbrTOT | H_PctABC | H_PctA | H_PctB | H_PctC | H_PctD | H_PctF | H_Pctnt | H_NbrA | H_NbrB | H_NbrC | H_NbrD | H_NbrF | H_NbrNT | H_NbrABC | H_NbrTOT
+data/report_cards/ReportCardData_forResearchers2026.XLSx,2c.Participation,5,"ReportCardYear | DistrictNm | SchoolNm | SCHOOLID | SCHOOLTYPECD | %Tested_ALL
+STUDENTS | NTested_ALL
+STUDENTS | TotalN_ALL
+STUDENTS | %Tested_African
+American | NTested_African
+American | TotalN_African
+American | %Tested_Asian
+Pacific Islander | NTested_Asian
+Pacific Islander | TotalN_Asian
+Pacific
+Islander | %Tested_American
+Indian | NTested_American
+Indian | TotalN_American
+Indian | %Tested_Hispanic | NTested_Hispanic | TotalN_Hispanic | %Tested_Caucasian | NTested_Caucasian | TotalN_Caucasian | %Tested_English
+Learner | NTested_English
+Learner | TotalN_English
+Learner | %Tested_Disabled | NTested_Disabled | TotalN_Disabled | %Tested_Not
+Disabled | NTested_Not
+Disabled | TotalN_Not
+Disabled | %Tested_Econ
+Disadvantaged | NTested_Econ
+Disadvantaged | TotalN_Econ
+Disadvantaged | %Tested_NonEcon
+Disadvantaged | NTested_NonEcon
+Disadvantaged | TotalN_NonEcon
+Disadvantaged | %Tested_Male | NTested_Male | TotalN_Male | %Tested_Female | NTested_Female | TotalN_Female | %Tested_Migrant | NTested_Migrant | TotalN_Migrant | %Tested_Military
+Connected | NTested_Military
+Connected | TotalN_Military
+Connected | %Tested_Foster | NTested_Foster | TotalN_Foster | %Tested_Homeless | NTested_Homeless | TotalN_Homeless"
+data/report_cards/ReportCardData_forResearchers2026.XLSx,2d.Participation_bySubject,5,"ReportCardYear | DistrictNm | SchoolNm | SCHOOLID | SCHOOLTYPECD | %Tested_ELA
+STUDENTS | NTested_ELA
+STUDENTS | %notTest_ELA
+STUDENTS | NnotTest_ELA
+STUDENTS | TotalN_ELA
+STUDENTS | %Tested_ELA_African
+American | NTested_ELA_African
+American | %notTest_ELA_African
+American | NnotTest_ELA_African
+American | TotalN_ELA_African
+American | %Tested_ELA_Asian
+PacIsl | NTested_ELA_Asian
+PacIsl | %notTest_ELA_Asian
+PacIsl | NnotTest_ELA_Asian
+PacIsl | TotalN_ELA_Asian
+PacIsl | %Tested_ELA_American
+Indian | NTested_ELA_American
+Indian | %notTest_ELA_American
+Indian | NnotTest_ELA_American
+Indian | TotalN_ELA_American
+Indian | %Tested_ELA_Hispanic | NTested_ELA_Hispanic | %notTest_ELA_Hispanic | NnotTest_ELA_Hispanic | TotalN_ELA_Hispanic | %Tested_ELA_Caucasian | NTested_ELA_Caucasian | %notTest_ELA_Caucasian | NnotTest_ELA_Caucasian | TotalN_ELA_Caucasian | %Tested_ELA_English
+Learner | NTested_ELA_English
+Learner | %notTest_ELA_English
+Learner | NnotTest_ELA_English
+Learner | TotalN_ELA_English
+Learner | %Tested_ELA_Disabled | NTested_ELA_Disabled | %notTest_ELA_Disabled | NnotTest_ELA_Disabled | TotalN_ELA_Disabled | %Tested_ELA_Not
+Disabled | NTested_ELA_Not
+Disabled | %notTest_ELA_Not
+Disabled | NnotTest_ELA_Not
+Disabled | TotalN_ELA_Not
+Disabled | %Tested_ELA_Econ
+Disadvantaged | NTested_ELA_Econ
+Disadvantaged | %notTest_ELA_Econ
+Disadvantaged | NnotTest_ELA_Econ
+Disadvantaged | TotalN_ELA_Econ
+Disadvantaged | %Tested_ELA_NonEcon
+Disadvant | NTested_ELA_NonEcon
+Disadvant | %notTest_ELA_NonEcon
+Disadvant | NnotTest_ELA_NonEcon
+Disadvant | TotalN_ELA_NonEcon
+Disadvant | %Tested_ELA_Male | NTested_ELA_Male | %notTest_ELA_Male | NnotTest_ELA_Male | TotalN_ELA_Male | %Tested_ELA_Female | NTested_ELA_Female | %notTest_ELA_Female | NnotTest_ELA_Female | TotalN_ELA_Female | %Tested_ELA_Migrant | NTested_ELA_Migrant | %notTest_ELA_Migrant | NnotTest_ELA_Migrant | TotalN_ELA_Migrant | %Tested_ELA_Military
+Connected | NTested_ELA_Military
+Connected | %notTest_ELA_Military
+Connected | NnotTest_ELA_Military
+Connected | TotalN_ELA_Military
+Connected | %Tested_ELA_Foster | NTested_ELA_Foster | %notTest_ELA_Foster | NnotTest_ELA_Foster | TotalN_ELA_Foster | %Tested_ELA_Homeless | NTested_ELA_Homeless | %notTest_ELA_Homeless | NnotTest_ELA_Homeless | TotalN_ELA_Homeless | %Tested_MATH
+STUDENTS | NTested_MATH
+STUDENTS | %notTest_MATH
+STUDENTS | NnotTest_MATH
+STUDENTS | TotalN_MATH
+STUDENTS | %Tested_MATH_African
+American | NTested_MATH_African
+American | %notTest_MATH_African
+American | NnotTest_MATH_African
+American | TotalN_MATH_African
+American | %Tested_MATH_Asian
+PacIsl | NTested_MATH_Asian
+PacIsl | %notTest_MATH_Asian
+PacIsl | NnotTest_MATH_Asian
+PacIsl | TotalN_MATH_Asian
+PacIsl | %Tested_MATH_American
+Indian | NTested_MATH_American
+Indian | %notTest_MATH_American
+Indian | NnotTest_MATH_American
+Indian | TotalN_MATH_American
+Indian | %Tested_MATH_Hispanic | NTested_MATH_Hispanic | %notTest_MATH_Hispanic | NnotTest_MATH_Hispanic | TotalN_MATH_Hispanic | %Tested_MATH_Caucasian | NTested_MATH_Caucasian | %notTest_MATH_Caucasian | NnotTest_MATH_Caucasian | TotalN_MATH_Caucasian | %Tested_MATH_English
+Learner | NTested_MATH_English
+Learner | %notTest_MATH_English
+Learner | NnotTest_MATH_English
+Learner | TotalN_MATH_English
+Learner | %Tested_MATH_Disabled | NTested_MATH_Disabled | %notTest_MATH_Disabled | NnotTest_MATH_Disabled | TotalN_MATH_Disabled | %Tested_MATH_Not
+Disabled | NTested_MATH_Not
+Disabled | %notTest_MATH_Not
+Disabled | NnotTest_MATH_Not
+Disabled | TotalN_MATH_Not
+Disabled | %Tested_MATH_Econ
+Disadvantaged | NTested_MATH_Econ
+Disadvantaged | %notTest_MATH_Econ
+Disadvantaged | NnotTest_MATH_Econ
+Disadvantaged | TotalN_MATH_Econ
+Disadvantaged | %Tested_MATH_NonEcon
+Disadvant | NTested_MATH_NonEcon
+Disadvant | %notTest_MATH_NonEcon
+Disadvant | NnotTest_MATH_NonEcon
+Disadvant | TotalN_MATH_NonEcon
+Disadvant | %Tested_MATH_Male | NTested_MATH_Male | %notTest_MATH_Male | NnotTest_MATH_Male | TotalN_MATH_Male | %Tested_MATH_Female | NTested_MATH_Female | %notTest_MATH_Female | NnotTest_MATH_Female | TotalN_MATH_Female | %Tested_MATH_Migrant | NTested_MATH_Migrant | %notTest_MATH_Migrant | NnotTest_MATH_Migrant | TotalN_MATH_Migrant | %Tested_MATH_Military
+Connected | NTested_MATH_Military
+Connected | %notTest_MATH_Military
+Connected | NnotTest_MATH_Military
+Connected | TotalN_MATH_Military
+Connected | %Tested_MATH_Foster | NTested_MATH_Foster | %notTest_MATH_Foster | NnotTest_MATH_Foster | TotalN_MATH_Foster | %Tested_MATH_Homeless | NTested_MATH_Homeless | %notTest_MATH_Homeless | NnotTest_MATH_Homeless | TotalN_MATH_Homeless | %Tested_SCI
+STUDENTS | NTested_SCI
+STUDENTS | %notTest_SCI
+STUDENTS | NnotTest_SCInot
+STUDENTS | TotalN_SCI
+STUDENTS | %Tested_SCI_African
+American | NTested_SCI_African
+American | %notTest_SCI_African
+American | NnotTest_SCI_African
+American | TotalN_SCI_African
+American | %Tested_SCI_Asian
+PacIsl | NTested_SCI_Asian
+PacIsl | %notTest_SCI_Asian
+PacIsl | NnotTest_SCI_Asian
+PacIsl | TotalN_SCI_Asian
+PacIsl | %Tested_SCI_American
+Indian | NTested_SCI_American
+Indian | %notTest_SCI_American
+Indian | NnotTest_SCI_American
+Indian | TotalN_SCI_American
+Indian | %Tested_SCI_Hispanic | NTested_SCI_Hispanic | %notTest_SCI_Hispanic | NnotTest_SCI_Hispanic | TotalN_SCI_Hispanic | %Tested_SCI_Caucasian | NTested_SCI_Caucasian | %notTest_SCI_Caucasian | NnotTest_SCI_Caucasian | TotalN_SCI_Caucasian | %Tested_SCI_English
+Learner | NTested_SCI_English
+Learner | %notTest_SCI_English
+Learner | NnotTest_SCI_English
+Learner | TotalN_SCI_English
+Learner | %Tested_SCI_Disabled | NTested_SCI_Disabled | %notTest_SCI_Disabled | NnotTest_SCI_Disabled | TotalN_SCI_Disabled | %Tested_SCI_Not
+Disabled | NTested_SCI_Not
+Disabled | %notTest_SCI_Not
+Disabled | NnotTest_SCI_Not
+Disabled | TotalN_SCI_Not
+Disabled | %Tested_SCI_Econ
+Disadvantaged | NTested_SCI_Econ
+Disadvantaged | %notTest_SCI_Econ
+Disadvantaged | NnotTest_SCI_Econ
+Disadvantaged | TotalN_SCI_Econ
+Disadvantaged | %Tested_SCI_NonEcon
+Disadvant | NTested_SCI_NonEcon
+Disadvant | %notTest_SCI_NonEcon
+Disadvant | NnotTest_SCI_NonEcon
+Disadvant | TotalN_SCI_NonEcon
+Disadvant | %Tested_SCI_Male | NTested_SCI_Male | %notTest_SCI_Male | NnotTest_SCI_Male | TotalN_SCI_Male | %Tested_SCI_Female | NTested_SCI_Female | %notTest_SCI_Female | NnotTest_SCI_Female | TotalN_SCI_Female | %Tested_SCI_Migrant | NTested_SCI_Migrant | %notTest_SCI_Migrant | NnotTest_SCI_Migrant | TotalN_SCI_Migrant | %Tested_SCI_Military
+Connected | NTested_SCI_Military
+Connected | %notTest_SCI_Military
+Connected | NnotTest_SCI_Military
+Connected | TotalN_SCI_Military
+Connected | %Tested_SCI_Foster | NTested_SCI_Foster | %notTest_SCI_Foster | NnotTest_SCI_Foster | TotalN_SCI_Foster | %Tested_SCI_Homeless | NTested_SCI_Homeless | %notTest_SCI_Homeless | NnotTest_SCI_Homeless | TotalN_SCI_Homeless"
+data/report_cards/ReportCardData_forResearchers2026.XLSx,2e.ALT_Participation_bySubj,5,"ReportCardYear | DistrictNm | SchoolNm | SCHOOLID | SCHOOLTYPECD | %Tested_ALT
+STUDENTS | NTested_ALT
+STUDENTS | TotalN_ALT
+and
+NON-ALT
+STUDENTS | %Tested_ALT
+ELA
+STUDENTS | NTested_ALT
+ELA
+STUDENTS | TotN_ALTandNON-ALT
+ELA STUDENTS | %Tested_ALT
+MATH
+STUDENTS | NTested_ALT
+MATH
+STUDENTS | TotN_ALTandNON-ALT
+MATH STUDENTS | %Tested_ALT
+SCI
+STUDENTS | NTested_ALT
+SCI
+STUDENTS | TotN_ALTandNON-ALT
+SCI STUDENTS"
+data/report_cards/ReportCardData_forResearchers2026.XLSx,3.Gradrate,5,ReportCardYear | DistrictNm | SchoolNm | SCHOOLID | SCHOOLTYPECD | GRADRATE26 | GRADRATE25 | GRADRATE24 | GRADRATE23
+data/report_cards/ReportCardData_forResearchers2026.XLSx,4.CollegeCareer,5,ReportCardYear | DistrictNm | SchoolNm | SCHOOLID | SCHOOLTYPECD | PctCollege | NumCollege | PctCareer | NumCareer | PctCollORCareer | NumCollORCareer | PctCollANDCareer | NumCollANDCareer | NumInCohort | PctACT | NumACT | PctSAT | NumSAT | PctAP | NumAP | PctIB | NumIB | PctCamb | NumCamb | PctDual | NumDual | PctCTE | NumCTE | PctWBL | NumWBL | PctCarRdy | NumCarRdy | PctASVAB | NumASVAB | PctCred | NumCred
+data/report_cards/ReportCardData_forResearchers2026.XLSx,5.MultilingualLearners,5,ReportCardYear | DistrictNm | SchoolNm | SCHOOLID | SchoolTypeCd | PctMetProg | NumMetProg | NumProgCalc | PctMetProf | NumMetProf | NumAssessed | NumMLLSubgroup
+data/report_cards/ReportCardData_forResearchers2026.XLSx,6.StudentProgress,5,ReportCardYear | DistrictNm | SchoolNm | SCHOOLID | SCHOOLTYPECD | PROGpctTOT | PROGpctALL | PROGpctL20
+data/report_cards/ReportCardData_forResearchers2026.XLSx,7.SchoolClimate,5,ReportCardYear | DISTRICT | SCHOOL | SCHOOLID | SCHOOLTYPECD | ClimateTOT | ClimTchInst | ClimTchWork | ClimTchSafe | ClimStuEnvi | ClimStuSafe | PctTchPartic | NumTchPartic | DenTchPartic | PctStuPartic | NumStuPartic | DenStuPartic | RATING | nIFtFS | nIFtFS_R | nWCtFS | nWCtFS_R | nStFS | nStFS_R | nSPEsFS | nSPEsFS_R | nSsFS | nSsFS_R
+data/report_cards/ReportCardData_forResearchers2026.XLSx,8.HS_Success,5,ReportCardYear | DISTRICT | SCHOOL | SCHOOLID | SCHOOLTYPECD | PCT_SUCCESS | NUM_SUCCESS | DEN_SUCCESS | PCT_ONTRACKy1 | NUM_ONTRACKy1 | DEN_ONTRACKy1 | PCT_ONTRACKy2 | NUM_ONTRACKy2 | DEN_ONTRACKy2 | PCT_ONTRACKy3 | NUM_ONTRACKy3 | DEN_ONTRACKy3 | PCT_5YRGRAD | NUM_5YRGRAD | DEN_5YRGRAD
+"data/headcounts/135 Day - School Headcount by Gender, Ethnicity and Pupils in Poverty - 2021-22.xlsx",Sheet 1,5,"ACTIVE* ENROLLMENT IN SOUTH CAROLINA PUBLIC SCHOOLS BY GENDER, RACE OR ETHNIC ORIGIN AND PUPILS IN POVERTY | ...2 | ...3 | ...4 | ...5 | ...6 | ...7 | ...8 | ...9 | ...10 | ...11 | ...12 | ...13 | ...14 | ...15 | ...16"
+"data/headcounts/School Headcount by Gender, Ethnicity and Pupils in Poverty-2.xlsx",school by gender race pip,5,"ACTIVE* ENROLLMENT IN SOUTH CAROLINA PUBLIC SCHOOLS BY GENDER, RACE OR ETHNIC ORIGIN AND PUPILS IN POVERTY | ...2 | ...3 | ...4 | ...5 | ...6 | ...7 | ...8 | ...9 | ...10 | ...11 | ...12 | ...13 | ...14 | ...15 | ...16"
+"data/headcounts/School Headcount by Gender, Ethnicity and Pupils in Poverty-3.xlsx",school by gender race pip,5,"ACTIVE* ENROLLMENT IN SOUTH CAROLINA PUBLIC SCHOOLS BY GENDER, RACE OR ETHNIC ORIGIN AND PUPILS IN POVERTY | ...2 | ...3 | ...4 | ...5 | ...6 | ...7 | ...8 | ...9 | ...10 | ...11 | ...12 | ...13 | ...14 | ...15 | ...16"
+"data/headcounts/School Headcount by Gender, Ethnicity and Pupils in Poverty-4.xlsx",school by gender race pip,5,"ACTIVE* ENROLLMENT IN SOUTH CAROLINA PUBLIC SCHOOLS BY GENDER, RACE OR ETHNIC ORIGIN AND PUPILS IN POVERTY | ...2 | ...3 | ...4 | ...5 | ...6 | ...7 | ...8 | ...9 | ...10 | ...11 | ...12 | ...13 | ...14 | ...15 | ...16"
+"data/headcounts/School Headcount by Gender, Ethnicity and Pupils in Poverty.xlsx",school by gender race pip,5,"ACTIVE* ENROLLMENT IN SOUTH CAROLINA PUBLIC SCHOOLS BY GENDER, RACE OR ETHNIC ORIGIN AND PUPILS IN POVERTY | ...2 | ...3 | ...4 | ...5 | ...6 | ...7 | ...8 | ...9 | ...10 | ...11 | ...12 | ...13 | ...14 | ...15 | ...16"
